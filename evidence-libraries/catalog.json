@@ -1,6 +1,6 @@
 {
-  "updated": "October 29, 2026 at 01:19 PM CDT",
-  "unique_publications": 618,
+  "updated": "1 November 2026 · V18 synchronized artifacts",
+  "unique_publications": 622,
   "libraries": [
     {
       "key": "liver_directed_matrix",
@@ -712,7 +712,7 @@
       "key": "roadmap_ampullary",
       "title": "Ampullary cancer cancer roadmap",
       "slug": "ampullary",
-      "publication_count": 36,
+      "publication_count": 37,
       "papers": [
         {
           "id": "doi:10.1001/jama.2012.7352"
@@ -821,6 +821,9 @@
         },
         {
           "id": "doi:10.1097/xcs.0000000000001289"
+        },
+        {
+          "id": "doi:10.1016/s1470-2045(21)00027-9"
         }
       ],
       "policy_records": []
@@ -1647,7 +1650,7 @@
       "key": "roadmap_icca",
       "title": "Intrahepatic CCA cancer roadmap",
       "slug": "icca",
-      "publication_count": 50,
+      "publication_count": 51,
       "papers": [
         {
           "id": "doi:10.1002/bjs.10776"
@@ -1798,6 +1801,9 @@
         },
         {
           "id": "doi:10.1200/jco-26-02462"
+        },
+        {
+          "id": "doi:10.1200/jco-26-00788"
         }
       ],
       "policy_records": [
@@ -2226,7 +2232,7 @@
       "key": "roadmap_pcyst",
       "title": "Pancreatic cysts cancer roadmap",
       "slug": "pcyst",
-      "publication_count": 28,
+      "publication_count": 29,
       "papers": [
         {
           "id": "doi:10.1136/gutjnl-2015-309638"
@@ -2311,6 +2317,9 @@
         },
         {
           "id": "doi:10.1053/j.gastro.2022.09.028"
+        },
+        {
+          "id": "doi:10.1016/j.pan.2023.05.005"
         }
       ],
       "policy_records": []
@@ -2319,7 +2328,7 @@
       "key": "roadmap_pdac",
       "title": "Pancreatic cancer cancer roadmap",
       "slug": "pdac",
-      "publication_count": 37,
+      "publication_count": 38,
       "papers": [
         {
           "id": "doi:10.1111/j.1365-2559.2009.03376.x"
@@ -2431,6 +2440,9 @@
         },
         {
           "id": "doi:10.1200/jco-24-01502"
+        },
+        {
+          "id": "doi:10.1200/jco-25-02520"
         }
       ],
       "policy_records": []
@@ -2439,7 +2451,7 @@
       "key": "roadmap_pnet",
       "title": "Pancreatic NET cancer roadmap",
       "slug": "pnet",
-      "publication_count": 48,
+      "publication_count": 49,
       "papers": [
         {
           "id": "doi:10.1111/cyt.12111"
@@ -2584,6 +2596,9 @@
         },
         {
           "id": "doi:10.1200/jco.23.01529"
+        },
+        {
+          "id": "doi:10.1016/j.cgh.2023.02.022"
         }
       ],
       "policy_records": [
@@ -9849,6 +9864,55 @@
       "publication_type": "Journal publication",
       "url": "https://doi.org/10.3390/jcm15030938",
       "tmc": "https://libkey.io/libraries/480/10.3390/jcm15030938"
+    },
+    "doi:10.1200/jco-26-00788": {
+      "title": "Pemigatinib versus gemcitabine and cisplatin in FGFR2-rearranged advanced cholangiocarcinoma (FIGHT-302).",
+      "author": "Bekaii-Saab TS, et al.",
+      "journal": "Journal of Clinical Oncology",
+      "year": "2026",
+      "doi": "10.1200/JCO-26-00788",
+      "pmid": "42223137",
+      "publication_type": "Journal publication",
+      "url": "https://doi.org/10.1200/JCO-26-00788",
+      "tmc": "https://libkey.io/libraries/480/pmid/42223137",
+      "coverage_notes": "The trial closed early and permitted substantial crossover. It did not compare pemigatinib with chemo-immunotherapy. Results do not resolve the current first-line sequencing question."
+    },
+    "doi:10.1016/j.pan.2023.05.005": {
+      "title": "Predictive ability of pancreatic cyst fluid biomarkers: a systematic review and meta-analysis.",
+      "author": "Pflüger MJ, et al.",
+      "journal": "Pancreatology",
+      "year": "2023",
+      "doi": "10.1016/j.pan.2023.05.005",
+      "pmid": "37230894",
+      "publication_type": "Journal publication",
+      "url": "https://doi.org/10.1016/j.pan.2023.05.005",
+      "tmc": "https://libkey.io/libraries/480/pmid/37230894",
+      "coverage_notes": "Study selection, assay methods and partial surgical verification limit generalization. High specificity is not high sensitivity; a negative VHL result cannot exclude serous cystadenoma."
+    },
+    "doi:10.1200/jco-25-02520": {
+      "title": "Adjuvant chemotherapy with or without chemoradiotherapy for adenocarcinoma of the pancreatic head: radiotherapy randomization of NRG Oncology/RTOG 0848.",
+      "author": "Abrams RA, et al.",
+      "journal": "Journal of Clinical Oncology",
+      "year": "2026",
+      "doi": "10.1200/JCO-25-02520",
+      "pmid": "42456089",
+      "publication_type": "Journal publication",
+      "url": "https://doi.org/10.1200/JCO-25-02520",
+      "tmc": "https://libkey.io/libraries/480/pmid/42456089",
+      "coverage_notes": "No patient received FOLFIRINOX: 67% gemcitabine alone, 28% gemcitabine/erlotinib and 5% other gemcitabine combinations. Modern-regimen transfer and SBRT substitution are unestablished. Only ten patients were both node-negative and margin-positive. Main text, tables and figure captions were reviewed; separate supplement/protocol and figure pixels were not."
+    },
+    "doi:10.1016/j.cgh.2023.02.022": {
+      "title": "Endoscopic ultrasound-guided radiofrequency ablation versus surgical resection for treatment of pancreatic insulinoma.",
+      "author": "Crinò SF, et al.",
+      "journal": "Clinical Gastroenterology and Hepatology",
+      "year": "2023",
+      "doi": "10.1016/j.cgh.2023.02.022",
+      "pmid": "36871765",
+      "publication_type": "Journal publication",
+      "url": "https://doi.org/10.1016/j.cgh.2023.02.022",
+      "tmc": "https://libkey.io/libraries/480/pmid/36871765",
+      "coverage_notes": "Matching does not remove unmeasured selection, repeat treatment contributes to success and follow-up differs. The study does not establish durable oncologic equivalence."
     }
-  }
+  },
+  "artifact_release": "V18_consistent_release_2026-11-02"
 }
