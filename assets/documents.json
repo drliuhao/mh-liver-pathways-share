@@ -1,0 +1,149 @@
+{
+  "generated": "29 October 2026",
+  "base": "documents/",
+  "tumors": {
+    "hcc": {
+      "code": "HCC",
+      "name": "Hepatocellular carcinoma",
+      "roadmap": "hcc",
+      "transplant": "hcc",
+      "files": {},
+      "counts": {
+        "roadmap": 21,
+        "standard": 13,
+        "highrisk": 6
+      }
+    },
+    "pcca": {
+      "code": "pCCA",
+      "name": "Perihilar cholangiocarcinoma",
+      "roadmap": "hilar",
+      "transplant": "pcca",
+      "files": {},
+      "counts": {
+        "roadmap": 17,
+        "standard": 6,
+        "highrisk": 3
+      }
+    },
+    "icca": {
+      "code": "iCCA",
+      "name": "Intrahepatic cholangiocarcinoma",
+      "roadmap": "icca",
+      "transplant": "icca",
+      "files": {},
+      "counts": {
+        "roadmap": 16,
+        "standard": 6,
+        "highrisk": 4
+      }
+    },
+    "crlm": {
+      "code": "CRLM",
+      "name": "Colorectal liver metastases",
+      "roadmap": "crlm",
+      "transplant": "crlm",
+      "files": {},
+      "counts": {
+        "roadmap": 20,
+        "standard": 8,
+        "highrisk": 5
+      }
+    },
+    "nelm": {
+      "code": "NELM",
+      "name": "Neuroendocrine liver metastases",
+      "roadmap": "nelm",
+      "transplant": "nelm",
+      "files": {},
+      "counts": {
+        "roadmap": 15,
+        "standard": 6,
+        "highrisk": 4
+      }
+    },
+    "hehe": {
+      "code": "HEHE",
+      "name": "Hepatic epithelioid hemangioendothelioma",
+      "roadmap": null,
+      "transplant": "hehe",
+      "files": {},
+      "counts": {
+        "standard": 6,
+        "highrisk": 2
+      }
+    },
+    "hca": {
+      "code": "HCA",
+      "name": "Hepatocellular adenoma",
+      "roadmap": "adenoma",
+      "transplant": "hca",
+      "files": {},
+      "counts": {
+        "roadmap": 17,
+        "standard": 6,
+        "highrisk": 2
+      }
+    },
+    "chcca": {
+      "code": "cHCC-CCA",
+      "name": "Combined hepatocellular–cholangiocarcinoma",
+      "roadmap": "chcca",
+      "transplant": null,
+      "files": {},
+      "counts": {
+        "roadmap": 15
+      }
+    },
+    "pdac": {
+      "code": "PDAC",
+      "name": "Pancreatic ductal adenocarcinoma",
+      "roadmap": "pdac",
+      "transplant": null,
+      "files": {},
+      "counts": {
+        "roadmap": 16
+      }
+    },
+    "pnet": {
+      "code": "pNET",
+      "name": "Pancreatic neuroendocrine tumor",
+      "roadmap": "pnet",
+      "transplant": null,
+      "files": {},
+      "counts": {
+        "roadmap": 16
+      }
+    },
+    "ampullary": {
+      "code": "AMP",
+      "name": "Ampullary tumors",
+      "roadmap": "ampullary",
+      "transplant": null,
+      "files": {},
+      "counts": {
+        "roadmap": 16
+      }
+    },
+    "pcyst": {
+      "code": "PCYST",
+      "name": "Pancreatic cysts",
+      "roadmap": "pcyst",
+      "transplant": null,
+      "files": {},
+      "counts": {
+        "roadmap": 19
+      }
+    },
+    "incidental": {
+      "code": "INC",
+      "name": "Incidental liver lesions",
+      "roadmap": "incidental",
+      "transplant": null,
+      "files": {},
+      "counts": {
+        "roadmap": 16
+      }
+    }
+  }
+}

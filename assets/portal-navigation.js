@@ -1,0 +1,70 @@
+/* Navigation only. No changes to clinical content or pathway state. */
+(() => {
+  document.documentElement.dataset.edition='share';
+  const root=new URL('../',document.currentScript.src);
+  // One type system on every page: Source Sans 3 for text and controls, Source Serif 4 for titles.
+  if(!document.querySelector('link[href*="family=Source+Sans+3"]')){const fonts=document.createElement('link');fonts.rel='stylesheet';fonts.href='https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap';document.head.prepend(fonts);}
+  // Share edition (tools/build_share_site.py sets data-edition="share"): the site's own Word and PDF files are not
+  // published, so any link to one is removed wherever a page renders it, and notes that point to them are hidden.
+  if(document.documentElement.dataset.edition==='share'){
+    const DOC=/\.(?:docx?|pdf|pptx?|xlsx?)$/i,SEP=/^[\s·|,;–—-]*$/;
+    const isDoc=a=>{try{const u=new URL(a.getAttribute('href'),location.href);return u.origin===location.origin&&DOC.test(u.pathname);}catch{return false;}};
+    const drop=a=>{const parent=a.parentElement;
+      if(a.querySelector('img,svg,picture')){a.replaceWith(...a.childNodes);return;}
+      const next=a.nextSibling,prev=a.previousSibling;a.remove();
+      if(next&&next.nodeType===3&&SEP.test(next.textContent))next.remove();else if(prev&&prev.nodeType===3&&SEP.test(prev.textContent))prev.remove();
+      if(parent&&parent!==document.body&&!parent.textContent.trim()&&!parent.querySelector('img,svg,input,select,button,textarea'))parent.remove();};
+    const scrub=node=>{if(node.matches?.('a[href]')){if(isDoc(node))drop(node);return;}node.querySelectorAll?.('a[href]').forEach(a=>{if(isDoc(a))drop(a);});};
+    new MutationObserver(list=>{for(const m of list)m.addedNodes.forEach(n=>{if(n.nodeType===1)scrub(n);});}).observe(document.documentElement,{childList:true,subtree:true});
+    scrub(document);document.addEventListener('DOMContentLoaded',()=>scrub(document));
+  }
+  // Shared, progressive presentation layer for roadmaps and decision protocols.
+  const infoCSS=document.createElement('link');infoCSS.rel='stylesheet';infoCSS.href=new URL('assets/contextual-info.css?v=20261102-review1',root);document.head.append(infoCSS);
+  const flowCSS=document.createElement('link');flowCSS.rel='stylesheet';flowCSS.href=new URL('assets/clinical-flow.css?v=20261102-review1',root);document.head.append(flowCSS);
+  const layerCSS=document.createElement('link');layerCSS.rel='stylesheet';layerCSS.href=new URL('assets/decision-layers.css?v=20261102-review1',root);document.head.append(layerCSS);
+  const compactCSS=document.createElement('link');compactCSS.rel='stylesheet';compactCSS.href=new URL('assets/compact-trail.css?v=20261102-review1',root);document.head.append(compactCSS);
+  for(const file of ['contextual-copy.js','contextual-info.js','clinical-flow.js','clinical-reference.js','decision-workspace-data.js','decision-workspace.js','compact-trail-labels.js','compact-trail.js','allocation-reference.js','clinical-tools.js','allocation-overview.js','content-hierarchy-data.js','content-hierarchy.js','compact-evidence-data.js','compact-treatment.js','transplant-workspace.js','clinical-scores.js','tools-column.js','document-corner.js','pathway-sections.js']){const script=document.createElement('script');script.async=false;script.src=new URL('assets/'+file+'?v=20261102-review1',root);document.head.append(script);}
+  const allocationCSS=document.createElement('link');allocationCSS.rel='stylesheet';allocationCSS.href=new URL('assets/allocation-overview.css?v=20261102-review1',root);document.head.append(allocationCSS);
+  const toolsCSS=document.createElement('link');toolsCSS.rel='stylesheet';toolsCSS.href=new URL('assets/clinical-tools.css?v=20261102-review1',root);document.head.append(toolsCSS);
+  const workspaceCSS=document.createElement('link');workspaceCSS.rel='stylesheet';workspaceCSS.href=new URL('assets/decision-workspace.css?v=20261102-review1',root);document.head.append(workspaceCSS);
+  const hierarchyCSS=document.createElement('link');hierarchyCSS.rel='stylesheet';hierarchyCSS.href=new URL('assets/content-hierarchy.css?v=20261102-review1',root);document.head.append(hierarchyCSS);
+  const compactTreatmentCSS=document.createElement('link');compactTreatmentCSS.rel='stylesheet';compactTreatmentCSS.href=new URL('assets/compact-treatment.css?v=20261102-review1',root);document.head.append(compactTreatmentCSS);
+  const toolsColumnCSS=document.createElement('link');toolsColumnCSS.rel='stylesheet';toolsColumnCSS.href=new URL('assets/tools-column.css?v=20261102-review1',root);document.head.append(toolsColumnCSS);
+  const docCSS=document.createElement('link');docCSS.rel='stylesheet';docCSS.href=new URL('assets/document-corner.css?v=20261102-review1',root);document.head.append(docCSS);
+  const transplantCSS=document.createElement('link');transplantCSS.rel='stylesheet';transplantCSS.href=new URL('assets/transplant-workspace.css?v=20261102-review1',root);document.head.append(transplantCSS);
+  const path=location.pathname.slice(root.pathname.length).split('/').filter(Boolean);
+  const transplant=path[0]==='transplant';
+  const highRisk=transplant&&path[1]==='high-risk';
+  const key=highRisk?path[2]:(transplant?path[1]:path[0]);
+  const pairs={hcc:'hcc',pcca:'hilar',icca:'icca',crlm:'crlm',nelm:'nelm',hca:'adenoma'};
+  const inverse=Object.fromEntries(Object.entries(pairs).map(([a,b])=>[b,a]));
+  const match=transplant?pairs[key]:(key==='chcca'?'icca':inverse[key]);
+  const nav=document.createElement('nav');nav.className='shared-portal-nav';nav.setAttribute('aria-label','Shared oncology portal');
+  const add=(url,label,current=false)=>{const a=document.createElement('a');a.href=new URL(url,root);a.textContent=label;if(current)a.setAttribute('aria-current','true');nav.append(a);};
+  add('','HPB oncology');nav.lastElementChild.className='portal-home';
+  const menu=(title,items)=>{const d=document.createElement('details'),summary=document.createElement('summary'),list=document.createElement('div');summary.textContent=title;list.className='portal-menu';d.append(summary,list);items.forEach(([url,label,current,group])=>{if(group){const heading=document.createElement('span');heading.className='portal-menu-group';heading.textContent=group;list.append(heading);}const a=document.createElement('a');a.href=new URL(url,root);a.textContent=label;if(current)a.setAttribute('aria-current','page');list.append(a);});nav.append(d);d.addEventListener('toggle',()=>{if(d.open)nav.querySelectorAll('details').forEach(other=>{if(other!==d)other.open=false;});});};
+  menu('Roadmaps', [['#hpb-roadmaps','All roadmaps',false],['hcc/','HCC',key==='hcc'&&!transplant,'Liver'],['hilar/','Perihilar CCA',key==='hilar'],['icca/','Intrahepatic CCA',key==='icca'&&!transplant],['crlm/','Colorectal liver metastases',key==='crlm'&&!transplant],['nelm/','Neuroendocrine liver metastases',key==='nelm'&&!transplant],['chcca/','Combined HCC–CCA',key==='chcca'],['adenoma/','Hepatic adenoma',key==='adenoma'],['incidental/','Incidental liver mass',key==='incidental'],['pdac/','Pancreatic adenocarcinoma',key==='pdac','Pancreas and ampulla'],['pnet/','Pancreatic neuroendocrine tumor',key==='pnet'],['pcyst/','Pancreatic cysts',key==='pcyst'],['ampullary/','Ampullary tumors',key==='ampullary'],['lrt/','Liver-directed therapy matrix',key==='lrt','Treatment matrices'],['systemic/','Systemic therapy matrix',key==='systemic']]);
+  menu('Transplant pathways', [['transplant/','All pathways',transplant&&!key],...Object.entries({hcc:'HCC',pcca:'Perihilar CCA',icca:'Intrahepatic CCA',crlm:'Colorectal liver metastases',nelm:'Neuroendocrine liver metastases',hehe:'HEHE',hca:'Hepatic adenoma'}).map(([slug,name])=>['transplant/'+slug+'/',name,transplant&&!highRisk&&key===slug]),['transplant/waiting/','Transplant waitlisted',key==='waiting'],['transplant/high-risk/','High-risk protocol index',highRisk]]);
+  if(match){add(transplant?match+'/':'transplant/'+match+'/',transplant?'Roadmap →':key==='chcca'?'iCCA pathway →':'Pathway →');nav.lastElementChild.className='portal-pair';}
+  document.addEventListener('click',ev=>{if(!nav.contains(ev.target))nav.querySelectorAll('details[open]').forEach(d=>d.open=false);});
+  nav.addEventListener('keydown',ev=>{if(ev.key==='Escape'){const d=ev.target.closest('details');if(d){d.open=false;d.querySelector('summary').focus();}}});
+  document.body.prepend(nav);
+  // Line the bar's edges up with the page's own content column (roadmap header, pathway header or main column).
+  const alignCSS=document.createElement('link');alignCSS.rel='stylesheet';alignCSS.href=new URL('assets/portal-nav-align.css?v=20261102-review1',root);document.head.append(alignCSS);
+  const anchor=()=>document.querySelector('.topin')||document.querySelector('#app header.top')||document.querySelector('body>main,body>.wrap,#app main');
+  const align=()=>{const a=anchor();if(!a)return false;const r=a.getBoundingClientRect(),cs=getComputedStyle(a),vw=document.documentElement.clientWidth;
+    const left=r.left+parseFloat(cs.paddingLeft)+parseFloat(cs.borderLeftWidth),right=vw-(r.right-parseFloat(cs.paddingRight)-parseFloat(cs.borderRightWidth));
+    if(!(r.width>0))return false;nav.style.setProperty('--nav-left',Math.max(12,Math.round(left))+'px');nav.style.setProperty('--nav-right',Math.max(12,Math.round(right))+'px');return true;};
+  let tries=0;const settle=()=>{if(!align()&&tries++<40)setTimeout(settle,100);};settle();
+  let frame=0;window.addEventListener('resize',()=>{cancelAnimationFrame(frame);frame=requestAnimationFrame(align);});
+  window.addEventListener('load',align);
+  const footer=document.createElement('footer');footer.className='portal-change-log';
+  const log=document.createElement('a');log.href=new URL('changes/',root);log.textContent='Change log';
+  const library=document.createElement('a');library.href=new URL('evidence-libraries/',root);library.textContent='Evidence libraries and PPT index';
+  footer.append(log,document.createTextNode(' · '),library);document.body.append(footer);
+  // A source deep link should reveal its appraisal, not stop at a closed title.
+  if(path[0]==='evidence'){
+    const revealStudy=()=>{let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}const target=document.getElementById(id);if(!target?.matches('details.study-appraisal'))return;target.open=true;target.style.scrollMarginTop='16px';requestAnimationFrame(()=>target.scrollIntoView({block:'start'}));};
+    window.addEventListener('hashchange',revealStudy);requestAnimationFrame(revealStudy);
+  }
+})();

@@ -1,0 +1,19 @@
+{
+  "review_date": "2026-11-02",
+  "tumors": [
+    "hcc",
+    "pcca",
+    "icca",
+    "crlm",
+    "pdac",
+    "pnet",
+    "nelm",
+    "ampullary",
+    "chcca"
+  ],
+  "treatment_cards": 49,
+  "references": 96,
+  "local_pdfs": 94,
+  "licensed_pdfs_published": 0,
+  "status": "Clinical review draft"
+}
