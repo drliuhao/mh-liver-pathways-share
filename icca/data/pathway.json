@@ -1553,7 +1553,11 @@
       "refs": [
         "31670750",
         "26695839",
-        "nccn"
+        "nccn",
+        "33868997",
+        "40216615",
+        "35544131",
+        "37814188"
       ]
     },
     {
@@ -2041,6 +2045,36 @@
       "McMillan 2022",
       "Transplant",
       "McMillan RR, et al. Survival following liver transplantation for locally advanced, unresectable intrahepatic cholangiocarcinoma. Am J Transplant. 2022;22:823–832. doi:10.1111/ajt.16906. PMID:34856069."
+    ],
+    "33868997": [
+      "Cai 2021",
+      "Liver-directed therapy",
+      "Cai Z, et al. Survival Comparisons of Hepatic Arterial Infusion Chemotherapy With mFOLFOX and Transarterial Chemoembolization in Patients With Unresectable Intrahepatic Cholangiocarcinoma. Front Oncol. 2021. PMID 33868997. DOI 10.3389/fonc.2021.611118."
+    ],
+    "40216615": [
+      "Zhang 2025",
+      "Liver-directed therapy",
+      "Zhang Y, et al. Hepatic arterial infusion chemotherapy versus transarterial chemoembolization in patients with unresectable intrahepatic cholangiocarcinoma: a multicenter retrospective cohort study. Eur Radiol. 2025. PMID 40216615. DOI 10.1007/s00330-025-11557-6."
+    ],
+    "35544131": [
+      "Franssen 2022",
+      "Liver-directed therapy",
+      "Franssen S, et al. Comparison of Hepatic Arterial Infusion Pump Chemotherapy vs Resection for Patients With Multifocal Intrahepatic Cholangiocarcinoma. JAMA Surg. 2022. PMID 35544131. DOI 10.1001/jamasurg.2022.1298."
+    ],
+    "37814188": [
+      "Franssen 2024",
+      "Liver-directed therapy",
+      "Franssen S, et al. Gemcitabine with Cisplatin Versus Hepatic Arterial Infusion Pump Chemotherapy for Liver-Confined Unresectable Intrahepatic Cholangiocarcinoma. Ann Surg Oncol. 2024. PMID 37814188. DOI 10.1245/s10434-023-14409-z."
+    ],
+    "30191056": [
+      "Akinwande 2017",
+      "Liver-directed therapy",
+      "Akinwande O, et al. Chemoembolization versus radioembolization for the treatment of unresectable intrahepatic cholangiocarcinoma in a single institution image-based efficacy and comparative toxicity. Hepat Oncol. 2017. PMID 30191056. DOI 10.2217/hep-2017-0005."
+    ],
+    "31517072": [
+      "Sebastian 2019",
+      "Liver-directed therapy",
+      "Sebastian NT, et al. Stereotactic body radiation therapy is associated with improved overall survival compared to chemoradiation or radioembolization in the treatment of unresectable intrahepatic cholangiocarcinoma. Clin Transl Radiat Oncol. 2019. PMID 31517072. DOI 10.1016/j.ctro.2019.07.007."
     ]
   },
   "nonpm": {

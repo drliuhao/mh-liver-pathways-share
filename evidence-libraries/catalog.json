@@ -1,12 +1,12 @@
 {
-  "updated": "1 November 2026 · V18 synchronized artifacts",
-  "unique_publications": 622,
+  "updated": "3 November 2026 · V19 comparative liver-directed evidence",
+  "unique_publications": 660,
   "libraries": [
     {
       "key": "liver_directed_matrix",
       "title": "Liver-directed treatment matrix",
       "slug": null,
-      "publication_count": 92,
+      "publication_count": 132,
       "papers": [
         {
           "id": "doi:10.1056/nejm199912303412702"
@@ -283,6 +283,126 @@
         },
         {
           "id": "doi:10.1200/jco.21.01963"
+        },
+        {
+          "id": "doi:10.1007/s00270-020-02712-1"
+        },
+        {
+          "id": "doi:10.21037/jgo-2026-0208"
+        },
+        {
+          "id": "doi:10.1148/radiol.2016160718"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2022.09.005"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2026.108926"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2022.03.021"
+        },
+        {
+          "id": "doi:10.1111/j.1600-6143.2009.02695.x"
+        },
+        {
+          "id": "doi:10.1016/j.cgh.2021.07.048"
+        },
+        {
+          "id": "doi:10.1097/lvt.0000000000000743"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2026.01.008"
+        },
+        {
+          "id": "doi:10.1097/hep.0000000000001231"
+        },
+        {
+          "id": "doi:10.1016/j.ejrad.2017.05.022"
+        },
+        {
+          "id": "doi:10.1186/s40001-022-00708-w"
+        },
+        {
+          "id": "doi:10.1016/j.adro.2015.12.003"
+        },
+        {
+          "id": "doi:10.21037/jgo.2015.10.04"
+        },
+        {
+          "id": "doi:10.1111/liv.12750"
+        },
+        {
+          "id": "doi:10.1007/s00270-014-1012-0"
+        },
+        {
+          "id": "doi:10.1111/hepr.13633"
+        },
+        {
+          "id": "doi:10.1080/02656736.2022.2112307"
+        },
+        {
+          "id": "doi:10.1016/s2468-1253(18)30078-5"
+        },
+        {
+          "id": "doi:10.1097/sla.0000000000006851"
+        },
+        {
+          "id": "doi:10.1245/s10434-017-6265-9"
+        },
+        {
+          "id": "doi:10.1023/a:1013569329846"
+        },
+        {
+          "id": "doi:10.21873/anticanres.13442"
+        },
+        {
+          "id": "doi:10.1245/s10434-025-18570-5"
+        },
+        {
+          "id": "doi:10.1016/j.ejca.2024.115154"
+        },
+        {
+          "id": "doi:10.1200/jco-25-01737"
+        },
+        {
+          "id": "doi:10.1016/j.lanepe.2026.101879"
+        },
+        {
+          "id": "doi:10.3389/fonc.2021.611118"
+        },
+        {
+          "id": "doi:10.1007/s00330-025-11557-6"
+        },
+        {
+          "id": "doi:10.1001/jamasurg.2022.1298"
+        },
+        {
+          "id": "doi:10.1245/s10434-023-14409-z"
+        },
+        {
+          "id": "doi:10.2217/hep-2017-0005"
+        },
+        {
+          "id": "doi:10.1016/j.ctro.2019.07.007"
+        },
+        {
+          "id": "doi:10.1016/j.eclinm.2026.104040"
+        },
+        {
+          "id": "doi:10.1007/s00268-017-4324-9"
+        },
+        {
+          "id": "doi:10.1016/j.jamcollsurg.2019.12.026"
+        },
+        {
+          "id": "doi:10.1007/s00330-017-4856-2"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2020.05.019"
+        },
+        {
+          "id": "doi:10.1016/j.jtocrr.2026.100989"
         }
       ],
       "policy_records": []
@@ -291,7 +411,7 @@
       "key": "systemic_matrix",
       "title": "Cross-tumor systemic treatment",
       "slug": null,
-      "publication_count": 134,
+      "publication_count": 148,
       "papers": [
         {
           "id": "doi:10.1001/jama.2012.7352"
@@ -694,6 +814,48 @@
         },
         {
           "id": "doi:10.1200/jco-24-01502"
+        },
+        {
+          "id": "doi:10.1111/hepr.13633"
+        },
+        {
+          "id": "doi:10.1080/02656736.2022.2112307"
+        },
+        {
+          "id": "doi:10.1016/s2468-1253(18)30078-5"
+        },
+        {
+          "id": "doi:10.1097/sla.0000000000006851"
+        },
+        {
+          "id": "doi:10.1245/s10434-017-6265-9"
+        },
+        {
+          "id": "doi:10.1023/a:1013569329846"
+        },
+        {
+          "id": "doi:10.1245/s10434-025-18570-5"
+        },
+        {
+          "id": "doi:10.1016/j.ejca.2024.115154"
+        },
+        {
+          "id": "doi:10.1200/jco-25-01737"
+        },
+        {
+          "id": "doi:10.3389/fonc.2021.611118"
+        },
+        {
+          "id": "doi:10.1007/s00330-025-11557-6"
+        },
+        {
+          "id": "doi:10.1001/jamasurg.2022.1298"
+        },
+        {
+          "id": "doi:10.1245/s10434-023-14409-z"
+        },
+        {
+          "id": "doi:10.1016/j.eclinm.2026.104040"
         }
       ],
       "policy_records": [
@@ -1031,7 +1193,7 @@
       "key": "roadmap_crlm",
       "title": "CRLM cancer roadmap",
       "slug": "crlm",
-      "publication_count": 65,
+      "publication_count": 73,
       "papers": [
         {
           "id": "doi:10.1056/nejm199912303412702"
@@ -1227,6 +1389,30 @@
         },
         {
           "id": "doi:10.1016/j.annonc.2026.03.005"
+        },
+        {
+          "id": "doi:10.1097/sla.0000000000006851"
+        },
+        {
+          "id": "doi:10.1245/s10434-017-6265-9"
+        },
+        {
+          "id": "doi:10.1023/a:1013569329846"
+        },
+        {
+          "id": "doi:10.21873/anticanres.13442"
+        },
+        {
+          "id": "doi:10.1245/s10434-025-18570-5"
+        },
+        {
+          "id": "doi:10.1016/j.ejca.2024.115154"
+        },
+        {
+          "id": "doi:10.1200/jco-25-01737"
+        },
+        {
+          "id": "doi:10.1016/j.lanepe.2026.101879"
         }
       ],
       "policy_records": []
@@ -1388,7 +1574,7 @@
       "key": "roadmap_hcc",
       "title": "HCC cancer roadmap",
       "slug": "hcc",
-      "publication_count": 83,
+      "publication_count": 103,
       "papers": [
         {
           "id": "doi:10.1016/j.jhep.2013.06.015"
@@ -1638,6 +1824,66 @@
         },
         {
           "id": "doi:10.1016/j.jhepr.2025.101664"
+        },
+        {
+          "id": "doi:10.1007/s00270-020-02712-1"
+        },
+        {
+          "id": "doi:10.21037/jgo-2026-0208"
+        },
+        {
+          "id": "doi:10.1148/radiol.2016160718"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2022.09.005"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2026.108926"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2022.03.021"
+        },
+        {
+          "id": "doi:10.1111/j.1600-6143.2009.02695.x"
+        },
+        {
+          "id": "doi:10.1016/j.cgh.2021.07.048"
+        },
+        {
+          "id": "doi:10.1097/lvt.0000000000000743"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2026.01.008"
+        },
+        {
+          "id": "doi:10.1097/hep.0000000000001231"
+        },
+        {
+          "id": "doi:10.1016/j.ejrad.2017.05.022"
+        },
+        {
+          "id": "doi:10.1186/s40001-022-00708-w"
+        },
+        {
+          "id": "doi:10.1016/j.adro.2015.12.003"
+        },
+        {
+          "id": "doi:10.21037/jgo.2015.10.04"
+        },
+        {
+          "id": "doi:10.1111/liv.12750"
+        },
+        {
+          "id": "doi:10.1007/s00270-014-1012-0"
+        },
+        {
+          "id": "doi:10.1111/hepr.13633"
+        },
+        {
+          "id": "doi:10.1080/02656736.2022.2112307"
+        },
+        {
+          "id": "doi:10.1016/s2468-1253(18)30078-5"
         }
       ],
       "policy_records": [
@@ -1650,7 +1896,7 @@
       "key": "roadmap_icca",
       "title": "Intrahepatic CCA cancer roadmap",
       "slug": "icca",
-      "publication_count": 51,
+      "publication_count": 57,
       "papers": [
         {
           "id": "doi:10.1002/bjs.10776"
@@ -1804,6 +2050,24 @@
         },
         {
           "id": "doi:10.1200/jco-26-00788"
+        },
+        {
+          "id": "doi:10.3389/fonc.2021.611118"
+        },
+        {
+          "id": "doi:10.1007/s00330-025-11557-6"
+        },
+        {
+          "id": "doi:10.1001/jamasurg.2022.1298"
+        },
+        {
+          "id": "doi:10.1245/s10434-023-14409-z"
+        },
+        {
+          "id": "doi:10.2217/hep-2017-0005"
+        },
+        {
+          "id": "doi:10.1016/j.ctro.2019.07.007"
         }
       ],
       "policy_records": [
@@ -1936,7 +2200,7 @@
       "key": "roadmap_nelm",
       "title": "NET liver metastases cancer roadmap",
       "slug": "nelm",
-      "publication_count": 40,
+      "publication_count": 45,
       "papers": [
         {
           "id": "doi:10.1016/s0140-6736(18)32487-5"
@@ -2057,6 +2321,21 @@
         },
         {
           "id": "doi:10.1200/jco.23.01529"
+        },
+        {
+          "id": "doi:10.1007/s00268-017-4324-9"
+        },
+        {
+          "id": "doi:10.1016/j.jamcollsurg.2019.12.026"
+        },
+        {
+          "id": "doi:10.1007/s00330-017-4856-2"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2020.05.019"
+        },
+        {
+          "id": "doi:10.1016/j.jtocrr.2026.100989"
         }
       ],
       "policy_records": [
@@ -2069,7 +2348,7 @@
       "key": "roadmap_pcca",
       "title": "Perihilar CCA cancer roadmap",
       "slug": "pcca",
-      "publication_count": 50,
+      "publication_count": 51,
       "papers": [
         {
           "id": "doi:10.1002/bjs.10776"
@@ -2220,6 +2499,9 @@
         },
         {
           "id": "doi:10.1200/jco-26-02462"
+        },
+        {
+          "id": "doi:10.1016/j.eclinm.2026.104040"
         }
       ],
       "policy_records": [
@@ -2611,7 +2893,7 @@
       "key": "standard_crlm",
       "title": "CRLM · standard protocol",
       "slug": "crlm",
-      "publication_count": 22,
+      "publication_count": 30,
       "papers": [
         {
           "id": "doi:10.1016/s2468-1253(21)00219-3"
@@ -2678,6 +2960,30 @@
         },
         {
           "id": "doi:10.1097/sla.0000000000007200"
+        },
+        {
+          "id": "doi:10.1097/sla.0000000000006851"
+        },
+        {
+          "id": "doi:10.1245/s10434-017-6265-9"
+        },
+        {
+          "id": "doi:10.1023/a:1013569329846"
+        },
+        {
+          "id": "doi:10.21873/anticanres.13442"
+        },
+        {
+          "id": "doi:10.1245/s10434-025-18570-5"
+        },
+        {
+          "id": "doi:10.1016/j.ejca.2024.115154"
+        },
+        {
+          "id": "doi:10.1200/jco-25-01737"
+        },
+        {
+          "id": "doi:10.1016/j.lanepe.2026.101879"
         }
       ],
       "policy_records": [
@@ -2730,7 +3036,7 @@
       "key": "standard_hcc",
       "title": "HCC · standard protocol",
       "slug": "hcc",
-      "publication_count": 49,
+      "publication_count": 67,
       "papers": [
         {
           "id": "doi:10.1056/nejmoa0708857"
@@ -2878,6 +3184,60 @@
         },
         {
           "id": "doi:10.1016/j.jhep.2024.08.028"
+        },
+        {
+          "id": "doi:10.1007/s00270-020-02712-1"
+        },
+        {
+          "id": "doi:10.21037/jgo-2026-0208"
+        },
+        {
+          "id": "doi:10.1148/radiol.2016160718"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2022.09.005"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2026.108926"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2022.03.021"
+        },
+        {
+          "id": "doi:10.1111/j.1600-6143.2009.02695.x"
+        },
+        {
+          "id": "doi:10.1016/j.cgh.2021.07.048"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2026.01.008"
+        },
+        {
+          "id": "doi:10.1016/j.ejrad.2017.05.022"
+        },
+        {
+          "id": "doi:10.1186/s40001-022-00708-w"
+        },
+        {
+          "id": "doi:10.1016/j.adro.2015.12.003"
+        },
+        {
+          "id": "doi:10.21037/jgo.2015.10.04"
+        },
+        {
+          "id": "doi:10.1111/liv.12750"
+        },
+        {
+          "id": "doi:10.1007/s00270-014-1012-0"
+        },
+        {
+          "id": "doi:10.1111/hepr.13633"
+        },
+        {
+          "id": "doi:10.1080/02656736.2022.2112307"
+        },
+        {
+          "id": "doi:10.1016/s2468-1253(18)30078-5"
         }
       ],
       "policy_records": [
@@ -2942,7 +3302,7 @@
       "key": "standard_icca",
       "title": "Intrahepatic CCA · standard protocol",
       "slug": "icca",
-      "publication_count": 30,
+      "publication_count": 36,
       "papers": [
         {
           "id": "doi:10.1056/nejmoa2513918"
@@ -3033,6 +3393,24 @@
         },
         {
           "id": "doi:10.1097/hep.0000000000000466"
+        },
+        {
+          "id": "doi:10.3389/fonc.2021.611118"
+        },
+        {
+          "id": "doi:10.1007/s00330-025-11557-6"
+        },
+        {
+          "id": "doi:10.1001/jamasurg.2022.1298"
+        },
+        {
+          "id": "doi:10.1245/s10434-023-14409-z"
+        },
+        {
+          "id": "doi:10.2217/hep-2017-0005"
+        },
+        {
+          "id": "doi:10.1016/j.ctro.2019.07.007"
         }
       ],
       "policy_records": [
@@ -3051,7 +3429,7 @@
       "key": "standard_nelm",
       "title": "NET liver metastases · standard protocol",
       "slug": "nelm",
-      "publication_count": 21,
+      "publication_count": 26,
       "papers": [
         {
           "id": "doi:10.1056/nejmoa1316158"
@@ -3115,6 +3493,21 @@
         },
         {
           "id": "doi:10.1016/j.transproceed.2026.02.019"
+        },
+        {
+          "id": "doi:10.1007/s00268-017-4324-9"
+        },
+        {
+          "id": "doi:10.1016/j.jamcollsurg.2019.12.026"
+        },
+        {
+          "id": "doi:10.1007/s00330-017-4856-2"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2020.05.019"
+        },
+        {
+          "id": "doi:10.1016/j.jtocrr.2026.100989"
         }
       ],
       "policy_records": [
@@ -3133,7 +3526,7 @@
       "key": "standard_pcca",
       "title": "Perihilar CCA · standard protocol",
       "slug": "pcca",
-      "publication_count": 25,
+      "publication_count": 26,
       "papers": [
         {
           "id": "doi:10.1002/hep.32771"
@@ -3209,6 +3602,9 @@
         },
         {
           "id": "doi:10.1200/jco-26-02462"
+        },
+        {
+          "id": "doi:10.1016/j.eclinm.2026.104040"
         }
       ],
       "policy_records": [
@@ -3227,7 +3623,7 @@
       "key": "high_risk_crlm",
       "title": "CRLM · high-risk / boundary protocol",
       "slug": "crlm",
-      "publication_count": 30,
+      "publication_count": 38,
       "papers": [
         {
           "id": "doi:10.1016/s2468-1253(21)00219-3"
@@ -3318,6 +3714,30 @@
         },
         {
           "id": "doi:10.1038/s41571-026-01160-z"
+        },
+        {
+          "id": "doi:10.1097/sla.0000000000006851"
+        },
+        {
+          "id": "doi:10.1245/s10434-017-6265-9"
+        },
+        {
+          "id": "doi:10.1023/a:1013569329846"
+        },
+        {
+          "id": "doi:10.21873/anticanres.13442"
+        },
+        {
+          "id": "doi:10.1245/s10434-025-18570-5"
+        },
+        {
+          "id": "doi:10.1016/j.ejca.2024.115154"
+        },
+        {
+          "id": "doi:10.1200/jco-25-01737"
+        },
+        {
+          "id": "doi:10.1016/j.lanepe.2026.101879"
         }
       ],
       "policy_records": [
@@ -3370,7 +3790,7 @@
       "key": "high_risk_hcc",
       "title": "HCC · high-risk / boundary protocol",
       "slug": "hcc",
-      "publication_count": 53,
+      "publication_count": 72,
       "papers": [
         {
           "id": "doi:10.1097/tp.0000000000002094"
@@ -3530,6 +3950,63 @@
         },
         {
           "id": "doi:10.1016/j.jhep.2024.08.028"
+        },
+        {
+          "id": "doi:10.1007/s00270-020-02712-1"
+        },
+        {
+          "id": "doi:10.21037/jgo-2026-0208"
+        },
+        {
+          "id": "doi:10.1148/radiol.2016160718"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2022.09.005"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2026.108926"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2022.03.021"
+        },
+        {
+          "id": "doi:10.1111/j.1600-6143.2009.02695.x"
+        },
+        {
+          "id": "doi:10.1016/j.cgh.2021.07.048"
+        },
+        {
+          "id": "doi:10.1097/lvt.0000000000000743"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2026.01.008"
+        },
+        {
+          "id": "doi:10.1016/j.ejrad.2017.05.022"
+        },
+        {
+          "id": "doi:10.1186/s40001-022-00708-w"
+        },
+        {
+          "id": "doi:10.1016/j.adro.2015.12.003"
+        },
+        {
+          "id": "doi:10.21037/jgo.2015.10.04"
+        },
+        {
+          "id": "doi:10.1111/liv.12750"
+        },
+        {
+          "id": "doi:10.1007/s00270-014-1012-0"
+        },
+        {
+          "id": "doi:10.1111/hepr.13633"
+        },
+        {
+          "id": "doi:10.1080/02656736.2022.2112307"
+        },
+        {
+          "id": "doi:10.1016/s2468-1253(18)30078-5"
         }
       ],
       "policy_records": [
@@ -3585,7 +4062,7 @@
       "key": "high_risk_icca",
       "title": "Intrahepatic CCA · high-risk / boundary protocol",
       "slug": "icca",
-      "publication_count": 37,
+      "publication_count": 43,
       "papers": [
         {
           "id": "doi:10.1056/nejmoa2513918"
@@ -3697,6 +4174,24 @@
         },
         {
           "id": "doi:10.1200/jco-26-02462"
+        },
+        {
+          "id": "doi:10.3389/fonc.2021.611118"
+        },
+        {
+          "id": "doi:10.1007/s00330-025-11557-6"
+        },
+        {
+          "id": "doi:10.1001/jamasurg.2022.1298"
+        },
+        {
+          "id": "doi:10.1245/s10434-023-14409-z"
+        },
+        {
+          "id": "doi:10.2217/hep-2017-0005"
+        },
+        {
+          "id": "doi:10.1016/j.ctro.2019.07.007"
         }
       ],
       "policy_records": [
@@ -3715,7 +4210,7 @@
       "key": "high_risk_nelm",
       "title": "NET liver metastases · high-risk / boundary protocol",
       "slug": "nelm",
-      "publication_count": 26,
+      "publication_count": 31,
       "papers": [
         {
           "id": "doi:10.1056/nejmoa1316158"
@@ -3794,6 +4289,21 @@
         },
         {
           "id": "doi:10.1038/s41571-026-01160-z"
+        },
+        {
+          "id": "doi:10.1007/s00268-017-4324-9"
+        },
+        {
+          "id": "doi:10.1016/j.jamcollsurg.2019.12.026"
+        },
+        {
+          "id": "doi:10.1007/s00330-017-4856-2"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2020.05.019"
+        },
+        {
+          "id": "doi:10.1016/j.jtocrr.2026.100989"
         }
       ],
       "policy_records": [
@@ -3812,7 +4322,7 @@
       "key": "high_risk_pcca",
       "title": "Perihilar CCA · high-risk / boundary protocol",
       "slug": "pcca",
-      "publication_count": 35,
+      "publication_count": 36,
       "papers": [
         {
           "id": "doi:10.1111/j.1477-2574.2011.00298.x"
@@ -3918,6 +4428,9 @@
         },
         {
           "id": "doi:10.1200/jco-26-02462"
+        },
+        {
+          "id": "doi:10.1016/j.eclinm.2026.104040"
         }
       ],
       "policy_records": [
@@ -3936,7 +4449,7 @@
       "key": "hcc_afp_b1_1",
       "title": "HCC AFP failure · B1.1",
       "slug": "hcc",
-      "publication_count": 6,
+      "publication_count": 15,
       "papers": [
         {
           "id": "doi:10.1097/tp.0000000000002094"
@@ -3955,6 +4468,33 @@
         },
         {
           "id": "doi:10.1097/hep.0000000000000466"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2026.108926"
+        },
+        {
+          "id": "doi:10.1111/j.1600-6143.2009.02695.x"
+        },
+        {
+          "id": "doi:10.1016/j.cgh.2021.07.048"
+        },
+        {
+          "id": "doi:10.1097/lvt.0000000000000743"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2026.01.008"
+        },
+        {
+          "id": "doi:10.1097/hep.0000000000001231"
+        },
+        {
+          "id": "doi:10.1016/j.ejrad.2017.05.022"
+        },
+        {
+          "id": "doi:10.1186/s40001-022-00708-w"
+        },
+        {
+          "id": "doi:10.1016/j.adro.2015.12.003"
         }
       ],
       "policy_records": [
@@ -4071,7 +4611,7 @@
       "key": "meeting_hcc",
       "title": "HCC meeting record",
       "slug": "hcc",
-      "publication_count": 39,
+      "publication_count": 58,
       "papers": [
         {
           "id": "doi:10.1097/tp.0000000000002094"
@@ -4189,6 +4729,63 @@
         },
         {
           "id": "doi:10.1097/hep.0000000000000466"
+        },
+        {
+          "id": "doi:10.1007/s00270-020-02712-1"
+        },
+        {
+          "id": "doi:10.21037/jgo-2026-0208"
+        },
+        {
+          "id": "doi:10.1148/radiol.2016160718"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2022.09.005"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2026.108926"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2022.03.021"
+        },
+        {
+          "id": "doi:10.1111/j.1600-6143.2009.02695.x"
+        },
+        {
+          "id": "doi:10.1016/j.cgh.2021.07.048"
+        },
+        {
+          "id": "doi:10.1097/lvt.0000000000000743"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2026.01.008"
+        },
+        {
+          "id": "doi:10.1016/j.ejrad.2017.05.022"
+        },
+        {
+          "id": "doi:10.1186/s40001-022-00708-w"
+        },
+        {
+          "id": "doi:10.1016/j.adro.2015.12.003"
+        },
+        {
+          "id": "doi:10.21037/jgo.2015.10.04"
+        },
+        {
+          "id": "doi:10.1111/liv.12750"
+        },
+        {
+          "id": "doi:10.1007/s00270-014-1012-0"
+        },
+        {
+          "id": "doi:10.1111/hepr.13633"
+        },
+        {
+          "id": "doi:10.1080/02656736.2022.2112307"
+        },
+        {
+          "id": "doi:10.1016/s2468-1253(18)30078-5"
         }
       ],
       "policy_records": [
@@ -4244,7 +4841,7 @@
       "key": "meeting_nelm",
       "title": "NET liver metastases meeting record",
       "slug": "nelm",
-      "publication_count": 14,
+      "publication_count": 19,
       "papers": [
         {
           "id": "doi:10.1056/nejmoa1316158"
@@ -4287,6 +4884,21 @@
         },
         {
           "id": "doi:10.3390/jcm15030938"
+        },
+        {
+          "id": "doi:10.1007/s00268-017-4324-9"
+        },
+        {
+          "id": "doi:10.1016/j.jamcollsurg.2019.12.026"
+        },
+        {
+          "id": "doi:10.1007/s00330-017-4856-2"
+        },
+        {
+          "id": "doi:10.1016/j.jvir.2020.05.019"
+        },
+        {
+          "id": "doi:10.1016/j.jtocrr.2026.100989"
         }
       ],
       "policy_records": [
@@ -9295,8 +9907,11 @@
       "pmid": "39808828",
       "year": "2025",
       "publication_type": "Journal publication",
-      "url": "https://doi.org/10.1097/hep.0000000000001231",
-      "tmc": "https://libkey.io/libraries/480/10.1097/hep.0000000000001231"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39808828/",
+      "tmc": "https://libkey.io/libraries/480/pmid/39808828",
+      "author": "Xu E",
+      "journal": "Hepatology",
+      "coverage_notes": "Treatment was not randomized; subgroup finding does not expand allocation criteria. Overlaps earlier MERITS-LT enrollment. Earlier within-UNOS-DS study found no significant modality difference."
     },
     "doi:10.1111/apt.70333": {
       "title": "Review Article: Liver Transplantation for Hepatocellular Carcinoma in the Era of Immune Checkpoint Inhibitors.",
@@ -9349,8 +9964,11 @@
       "pmid": "41056563",
       "year": "2026",
       "publication_type": "Journal publication",
-      "url": "https://doi.org/10.1097/lvt.0000000000000743",
-      "tmc": "https://libkey.io/libraries/480/10.1097/lvt.0000000000000743"
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41056563/",
+      "tmc": "https://libkey.io/libraries/480/pmid/41056563",
+      "author": "Fakhoury B",
+      "journal": "Liver Transpl",
+      "coverage_notes": "No significant adjusted OS, post-LT OS or recurrence difference. Switching/mixed LRT and LDLT excluded; overlaps Kim registry population. Final issue 2026, online 2025."
     },
     "doi:10.1001/jamaoncol.2026.3901": {
       "title": "Immune Checkpoint Inhibitor-Based Downstaging Therapy for Hepatocellular Carcinoma.",
@@ -9912,7 +10530,463 @@
       "url": "https://doi.org/10.1016/j.cgh.2023.02.022",
       "tmc": "https://libkey.io/libraries/480/pmid/36871765",
       "coverage_notes": "Matching does not remove unmeasured selection, repeat treatment contributes to success and follow-up differs. The study does not establish durable oncologic equivalence."
+    },
+    "doi:10.1007/s00270-020-02712-1": {
+      "publication_type": "Journal publication",
+      "title": "Evaluation of Medium-Term Efficacy of Y90 Radiation Segmentectomy vs Percutaneous Microwave Ablation in Patients with Solitary Surgically Unresectable < 4 cm Hepatocellular Carcinoma: A Propensity Score Matched Study.",
+      "author": "Arndt L",
+      "journal": "Cardiovasc Intervent Radiol",
+      "year": "2021",
+      "doi": "10.1007/s00270-020-02712-1",
+      "pmid": "33230652",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33230652/",
+      "tmc": "https://libkey.io/libraries/480/pmid/33230652",
+      "coverage_notes": "Small selected cohorts; local-control association, not proven OS superiority or equivalence. Title uses <4 cm; abstract uses ≤4 cm; do not derive an eligibility boundary from this report."
+    },
+    "doi:10.21037/jgo-2026-0208": {
+      "publication_type": "Journal publication",
+      "title": "A retrospective study on the outcomes of yttrium-90 radiation segmentectomy with resin microspheres compared to microwave ablation for early primary hepatocellular carcinoma.",
+      "author": "Abdalla O",
+      "journal": "J Gastrointest Oncol",
+      "year": "2026",
+      "doi": "10.21037/jgo-2026-0208",
+      "pmid": "42434250",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42434250/",
+      "tmc": "https://libkey.io/libraries/480/pmid/42434250",
+      "coverage_notes": "No significant PFS/OS difference. Anatomy determined treatment; deaths within 1 month excluded. Abstract CR differs from main text; main-text denominator used. No equivalence conclusion."
+    },
+    "doi:10.1148/radiol.2016160718": {
+      "publication_type": "Journal publication",
+      "title": "Radiation Segmentectomy versus TACE Combined with Microwave Ablation for Unresectable Solitary Hepatocellular Carcinoma Up to 3 cm: A Propensity Score Matching Study.",
+      "author": "Biederman DM",
+      "journal": "Radiology",
+      "year": "2017",
+      "doi": "10.1148/radiol.2016160718",
+      "pmid": "27930089",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27930089/",
+      "tmc": "https://libkey.io/libraries/480/pmid/27930089",
+      "coverage_notes": "Comparator is TACE plus MWA, not MWA alone. Selection bias and limited power; nonsignificance does not establish equivalence."
+    },
+    "doi:10.1016/j.jvir.2022.09.005": {
+      "publication_type": "Journal publication",
+      "title": "Transarterial Radioembolization versus Transarterial Chemoembolization Plus Percutaneous Ablation for Unresectable, Solitary Hepatocellular Carcinoma of ≥3 cm: A Propensity Score-Matched Study.",
+      "author": "Yu Q",
+      "journal": "J Vasc Interv Radiol",
+      "year": "2022",
+      "doi": "10.1016/j.jvir.2022.09.005",
+      "pmid": "36100064",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36100064/",
+      "tmc": "https://libkey.io/libraries/480/pmid/36100064",
+      "coverage_notes": "Combined comparator; small selected cohorts. Results do not show that TARE is superior to ablation alone."
+    },
+    "doi:10.1016/j.jvir.2026.108926": {
+      "publication_type": "Journal publication",
+      "title": "Radiation Segmentectomy versus Combined Chemoembolization plus Microwave Ablation: Histopathologic Tumor Necrosis in Hepatocellular Carcinoma Measuring up to 5 cm.",
+      "author": "Yu Q",
+      "journal": "J Vasc Interv Radiol",
+      "year": "2026",
+      "doi": "10.1016/j.jvir.2026.108926",
+      "pmid": "42379392",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42379392/",
+      "tmc": "https://libkey.io/libraries/480/pmid/42379392",
+      "coverage_notes": "Recipient-only, tumor-level analysis; cannot estimate waitlist dropout. Abstract CPN denominator is unclear; omit that percentage pending full text. Not an equivalence trial."
+    },
+    "doi:10.1016/j.jvir.2022.03.021": {
+      "publication_type": "Journal publication",
+      "title": "Radiation Segmentectomy for the Treatment of Solitary Hepatocellular Carcinoma: Outcomes Compared with Those of Surgical Resection.",
+      "author": "De la Garza-Ramos C",
+      "journal": "J Vasc Interv Radiol",
+      "year": "2022",
+      "doi": "10.1016/j.jvir.2022.03.021",
+      "pmid": "35346857",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35346857/",
+      "tmc": "https://libkey.io/libraries/480/pmid/35346857",
+      "coverage_notes": "Propensity distributions were too dissimilar to match. Different surgical candidacy and liver function prevent a claim of equivalence to resection."
+    },
+    "doi:10.1111/j.1600-6143.2009.02695.x": {
+      "publication_type": "Journal publication",
+      "title": "A comparative analysis of transarterial downstaging for hepatocellular carcinoma: chemoembolization versus radioembolization.",
+      "author": "Lewandowski RJ",
+      "journal": "Am J Transplant",
+      "year": "2009",
+      "doi": "10.1111/j.1600-6143.2009.02695.x",
+      "pmid": "19552767",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19552767/",
+      "tmc": "https://libkey.io/libraries/480/pmid/19552767",
+      "coverage_notes": "Older nonrandomized cohort predating current UNOS-DS rules; supports a downstaging signal, not universal superiority."
+    },
+    "doi:10.1016/j.cgh.2021.07.048": {
+      "publication_type": "Journal publication",
+      "title": "National Trends and Waitlist Outcomes of Locoregional Therapy Among Liver Transplant Candidates With Hepatocellular Carcinoma in the United States.",
+      "author": "Kwong AJ",
+      "journal": "Clin Gastroenterol Hepatol",
+      "year": "2022",
+      "doi": "10.1016/j.cgh.2021.07.048",
+      "pmid": "34358718",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34358718/",
+      "tmc": "https://libkey.io/libraries/480/pmid/34358718",
+      "coverage_notes": "Modality selection and era confounding remain; this is not a randomized comparison. Some registry years overlap later national reports."
+    },
+    "doi:10.1016/j.jhep.2026.01.008": {
+      "publication_type": "Journal publication",
+      "title": "Yttrium-90 radioembolization is associated with a lower risk of liver transplant waitlist dropout than chemoembolization in hepatocellular carcinoma.",
+      "author": "Kim NG",
+      "journal": "J Hepatol",
+      "year": "2026",
+      "doi": "10.1016/j.jhep.2026.01.008",
+      "pmid": "41580092",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41580092/",
+      "tmc": "https://libkey.io/libraries/480/pmid/41580092",
+      "coverage_notes": "Adjusted association, not causal proof. Overlaps Fakhoury OPTN cohort; do not count as independent replication. Current review is abstract-level; full text pending."
+    },
+    "doi:10.1016/j.ejrad.2017.05.022": {
+      "publication_type": "Journal publication",
+      "title": "Comparative study of post-transplant outcomes in hepatocellular carcinoma patients treated with chemoembolization or radioembolization.",
+      "author": "Gabr A",
+      "journal": "Eur J Radiol",
+      "year": "2017",
+      "doi": "10.1016/j.ejrad.2017.05.022",
+      "pmid": "28668402",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28668402/",
+      "tmc": "https://libkey.io/libraries/480/pmid/28668402",
+      "coverage_notes": "Only recipients were analyzed. This cannot establish equivalent bridging success or compare dropout before transplantation."
+    },
+    "doi:10.1186/s40001-022-00708-w": {
+      "publication_type": "Journal publication",
+      "title": "Bridging treatment prior to liver transplantation for hepatocellular carcinoma: radioembolization or transarterial chemoembolization?",
+      "author": "Benkö T",
+      "journal": "Eur J Med Res",
+      "year": "2022",
+      "doi": "10.1186/s40001-022-00708-w",
+      "pmid": "35619164",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35619164/",
+      "tmc": "https://libkey.io/libraries/480/pmid/35619164",
+      "coverage_notes": "Major baseline imbalance; pre-LT dropouts (6 Y90, 8 TACE) excluded. Recipient outcomes do not answer the waitlist-dropout question."
+    },
+    "doi:10.1016/j.adro.2015.12.003": {
+      "publication_type": "Journal publication",
+      "title": "Comparison of outcomes between SBRT, yttrium-90 radioembolization, transarterial chemoembolization, and radiofrequency ablation as bridge to transplant for hepatocellular carcinoma.",
+      "author": "Mohamed M",
+      "journal": "Adv Radiat Oncol",
+      "year": "2016",
+      "doi": "10.1016/j.adro.2015.12.003",
+      "pmid": "28799575",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28799575/",
+      "tmc": "https://libkey.io/libraries/480/pmid/28799575",
+      "coverage_notes": "Very small, unequal evaluable groups, mixed treatments and recipient selection; illustrative pathology results, not a modality ranking or dropout comparison."
+    },
+    "doi:10.21037/jgo.2015.10.04": {
+      "publication_type": "Journal publication",
+      "title": "Conformal external beam radiation or selective internal radiation therapy-a comparison of treatment outcomes for hepatocellular carcinoma.",
+      "author": "Oladeru OT",
+      "journal": "J Gastrointest Oncol",
+      "year": "2016",
+      "doi": "10.21037/jgo.2015.10.04",
+      "pmid": "27284477",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27284477/",
+      "tmc": "https://libkey.io/libraries/480/pmid/27284477",
+      "coverage_notes": "Older registry radiation coding and missing liver-function/dosimetry details limit applicability to modern RS versus SBRT. No equivalence conclusion."
+    },
+    "doi:10.1111/liv.12750": {
+      "publication_type": "Journal publication",
+      "title": "Pilot randomized trial of selective internal radiation therapy vs. chemoembolization in unresectable hepatocellular carcinoma.",
+      "author": "Kolligs FT",
+      "journal": "Liver Int",
+      "year": "2015",
+      "doi": "10.1111/liv.12750",
+      "pmid": "25443863",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25443863/",
+      "tmc": "https://libkey.io/libraries/480/pmid/25443863",
+      "coverage_notes": "Safety/QoL pilot, not powered for survival or transplant endpoints. Complements, rather than confirms, PREMIERE and TRACE."
+    },
+    "doi:10.1007/s00270-014-1012-0": {
+      "publication_type": "Journal publication",
+      "title": "Randomized comparison of selective internal radiotherapy (SIRT) versus drug-eluting bead transarterial chemoembolization (DEB-TACE) for the treatment of hepatocellular carcinoma.",
+      "author": "Pitton MB",
+      "journal": "Cardiovasc Intervent Radiol",
+      "year": "2015",
+      "doi": "10.1007/s00270-014-1012-0",
+      "pmid": "25373796",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25373796/",
+      "tmc": "https://libkey.io/libraries/480/pmid/25373796",
+      "coverage_notes": "Four liver-failure deaths occurred after SIRT. Small trial with older delivery/dosimetry; no class-wide Y90 survival advantage."
+    },
+    "doi:10.1111/hepr.13633": {
+      "publication_type": "Journal publication",
+      "title": "Randomized controlled study to examine the efficacy of hepatic arterial infusion chemotherapy with cisplatin before radiofrequency ablation for hepatocellular carcinoma.",
+      "author": "Oyama A",
+      "journal": "Hepatol Res",
+      "year": "2021",
+      "doi": "10.1111/hepr.13633",
+      "pmid": "33687130",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33687130/",
+      "tmc": "https://libkey.io/libraries/480/pmid/33687130",
+      "coverage_notes": "Primary RFS endpoint was not significant. A secondary distant-intrahepatic recurrence signal does not establish routine HAIC addition or HAIC as a replacement for ablation."
+    },
+    "doi:10.1080/02656736.2022.2112307": {
+      "publication_type": "Journal publication",
+      "title": "Hepatic arterial infusion chemotherapy and sequential ablation treatment in large hepatocellular carcinoma.",
+      "author": "You H",
+      "journal": "Int J Hyperthermia",
+      "year": "2022",
+      "doi": "10.1080/02656736.2022.2112307",
+      "pmid": "35993224",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35993224/",
+      "tmc": "https://libkey.io/libraries/480/pmid/35993224",
+      "coverage_notes": "Sequential-treatment selection and time-dependent bias remain. Tests addition of ablation after HAIC, not standalone HAIC versus ablation."
+    },
+    "doi:10.1016/s2468-1253(18)30078-5": {
+      "publication_type": "Journal publication",
+      "title": "Sorafenib plus low-dose cisplatin and fluorouracil hepatic arterial infusion chemotherapy versus sorafenib alone in patients with advanced hepatocellular carcinoma (SILIUS): a randomised, open label, phase 3 trial.",
+      "author": "Kudo M",
+      "journal": "Lancet Gastroenterol Hepatol",
+      "year": "2018",
+      "doi": "10.1016/s2468-1253(18)30078-5",
+      "pmid": "29631810",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29631810/",
+      "tmc": "https://libkey.io/libraries/480/pmid/29631810",
+      "coverage_notes": "Negative OS trial. Regimen differs from FOLFOX-HAIC trials; increased hematologic toxicity. Do not generalize a benefit across all HAIC regimens."
+    },
+    "doi:10.1097/sla.0000000000006851": {
+      "publication_type": "Journal publication",
+      "title": "Hepatic Artery Infusion Chemotherapy Compared to Transarterial Radioembolization For Unresectable Colorectal Liver Metastases.",
+      "author": "Saadat LV",
+      "journal": "Ann Surg",
+      "year": "2025",
+      "doi": "10.1097/sla.0000000000006851",
+      "pmid": "40709764",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40709764/",
+      "tmc": "https://libkey.io/libraries/480/pmid/40709764",
+      "coverage_notes": "HAI came from one high-volume center, TARE from five others. More subsequent systemic therapy/resection after HAI; treatment and center effects cannot be separated. Not a comparison with ablation."
+    },
+    "doi:10.1245/s10434-017-6265-9": {
+      "publication_type": "Journal publication",
+      "title": "Effectiveness of Hepatic Artery Infusion (HAI) Versus Selective Internal Radiation Therapy (Y90) for Pretreated Isolated Unresectable Colorectal Liver Metastases (IU-CRCLM).",
+      "author": "Dhir M",
+      "journal": "Ann Surg Oncol",
+      "year": "2018",
+      "doi": "10.1245/s10434-017-6265-9",
+      "pmid": "29181682",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29181682/",
+      "tmc": "https://libkey.io/libraries/480/pmid/29181682",
+      "coverage_notes": "Abstract/time-origin reporting and later discussion disagree; do not reproduce a pooled median or use this small cohort to establish superiority. Prefer the larger stratified Saadat analysis."
+    },
+    "doi:10.1023/a:1013569329846": {
+      "publication_type": "Journal publication",
+      "title": "Randomised trial of SIR-Spheres plus chemotherapy vs. chemotherapy alone for treating patients with liver metastases from primary large bowel cancer.",
+      "author": "Gray B",
+      "journal": "Ann Oncol",
+      "year": "2001",
+      "doi": "10.1023/a:1013569329846",
+      "pmid": "11843249",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11843249/",
+      "tmc": "https://libkey.io/libraries/480/pmid/11843249",
+      "coverage_notes": "Tests adding Y90 to HAI, not Y90 versus HAI alone. Older chemotherapy era; no established overall-survival benefit. Not evidence against ablation of small lesions."
+    },
+    "doi:10.21873/anticanres.13442": {
+      "publication_type": "Journal publication",
+      "title": "Comparison of Response and Outcomes of Drug-eluting Bead Chemoembolization (DEB-TACE) <i>Versus</i> Radioembolization (TARE) for Patients With Colorectal Cancer Liver Metastases.",
+      "author": "Mokkarala M",
+      "journal": "Anticancer Res",
+      "year": "2019",
+      "doi": "10.21873/anticanres.13442",
+      "pmid": "31177151",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31177151/",
+      "tmc": "https://libkey.io/libraries/480/pmid/31177151",
+      "coverage_notes": "No significant survival difference; baseline burden and extrahepatic disease varied. Not an equivalence trial."
+    },
+    "doi:10.1245/s10434-025-18570-5": {
+      "publication_type": "Journal publication",
+      "title": "Treatment Intensification with Hepatic Arterial Infusion Chemotherapy in Patients with Liver-Only Colorectal Metastases Still Unresectable After Systemic Induction Chemotherapy: Exploratory Findings From a Prematurely Closed Multicenter Randomized Phase II Study: SULTAN UCGI 30/PRODIGE 53 (NCT03164655).",
+      "author": "Boilève A",
+      "journal": "Ann Surg Oncol",
+      "year": "2026",
+      "doi": "10.1245/s10434-025-18570-5",
+      "pmid": "41118066",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41118066/",
+      "tmc": "https://libkey.io/libraries/480/pmid/41118066",
+      "coverage_notes": "Very small, early-closed trial; conversion endpoint not significant. Supports further study, not a confirmed conversion advantage or direct comparison against ablation."
+    },
+    "doi:10.1016/j.ejca.2024.115154": {
+      "publication_type": "Journal publication",
+      "title": "Safety and efficacy of adjuvant FOLFOX/FOLFIRI with versus without hepatic arterial infusion of floxuridine in patients following colorectal cancer liver metastasectomy (HARVEST trial): A randomized controlled trial.",
+      "author": "Wang DS",
+      "journal": "Eur J Cancer",
+      "year": "2025",
+      "doi": "10.1016/j.ejca.2024.115154",
+      "pmid": "39644535",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39644535/",
+      "tmc": "https://libkey.io/libraries/480/pmid/39644535",
+      "coverage_notes": "Stopped for FUDR supply shortage; primary endpoint negative. Exploratory early-RFS/subgroup signals do not establish routine postoperative HAI."
+    },
+    "doi:10.1200/jco-25-01737": {
+      "publication_type": "Journal publication",
+      "title": "Postoperative Hepatic Arterial Infusion With Oxaliplatin After Surgery of Four or More Colorectal Liver Metastases: A Randomized Phase II Trial.",
+      "author": "Gelli M",
+      "journal": "J Clin Oncol",
+      "year": "2026",
+      "doi": "10.1200/jco-25-01737",
+      "pmid": "42018958",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42018958/",
+      "tmc": "https://libkey.io/libraries/480/pmid/42018958",
+      "coverage_notes": "Adjuvant treatment after local clearance, not HAI instead of ablation. Oxaliplatin regimen and high-burden population differ from pump-FUDR PUMP and HARVEST."
+    },
+    "doi:10.1016/j.lanepe.2026.101879": {
+      "publication_type": "Journal publication",
+      "title": "Microwave ablation versus stereotactic body radiotherapy for oligometastatic colorectal liver metastases (LAVA-CRLM): a prospective, randomised, phase II trial.",
+      "author": "Risumlund SL",
+      "journal": "Lancet Reg Health Eur",
+      "year": "2026",
+      "doi": "10.1016/j.lanepe.2026.101879",
+      "pmid": "42829779",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829779/",
+      "tmc": "https://libkey.io/libraries/480/pmid/42829779",
+      "coverage_notes": "No demonstrated local-control difference; wide CI and postrandomization exclusions. No survival/noninferiority claim. Grade ≥3 toxicity occurred only after MWA, including one treatment-related death."
+    },
+    "doi:10.3389/fonc.2021.611118": {
+      "publication_type": "Journal publication",
+      "title": "Survival Comparisons of Hepatic Arterial Infusion Chemotherapy With mFOLFOX and Transarterial Chemoembolization in Patients With Unresectable Intrahepatic Cholangiocarcinoma.",
+      "author": "Cai Z",
+      "journal": "Front Oncol",
+      "year": "2021",
+      "doi": "10.3389/fonc.2021.611118",
+      "pmid": "33868997",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33868997/",
+      "tmc": "https://libkey.io/libraries/480/pmid/33868997",
+      "coverage_notes": "Nonrandomized, regional catheter regimen. Does not establish pump-FUDR superiority or replace contemporary systemic therapy."
+    },
+    "doi:10.1007/s00330-025-11557-6": {
+      "publication_type": "Journal publication",
+      "title": "Hepatic arterial infusion chemotherapy versus transarterial chemoembolization in patients with unresectable intrahepatic cholangiocarcinoma: a multicenter retrospective cohort study.",
+      "author": "Zhang Y",
+      "journal": "Eur Radiol",
+      "year": "2025",
+      "doi": "10.1007/s00330-025-11557-6",
+      "pmid": "40216615",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40216615/",
+      "tmc": "https://libkey.io/libraries/480/pmid/40216615",
+      "coverage_notes": "Very small HAIC cohort; treatment selection and TACE formulation matter. Do not generalize the comparison to all arterial therapy."
+    },
+    "doi:10.1001/jamasurg.2022.1298": {
+      "publication_type": "Journal publication",
+      "title": "Comparison of Hepatic Arterial Infusion Pump Chemotherapy vs Resection for Patients With Multifocal Intrahepatic Cholangiocarcinoma.",
+      "author": "Franssen S",
+      "journal": "JAMA Surg",
+      "year": "2022",
+      "doi": "10.1001/jamasurg.2022.1298",
+      "pmid": "35544131",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35544131/",
+      "tmc": "https://libkey.io/libraries/480/pmid/35544131",
+      "coverage_notes": "HAIP patients had substantially more bilobar/multifocal disease. Not an equivalence trial or reason to deny resection to an otherwise suitable patient; does not distinguish all satellites from metastases."
+    },
+    "doi:10.1245/s10434-023-14409-z": {
+      "publication_type": "Journal publication",
+      "title": "Gemcitabine with Cisplatin Versus Hepatic Arterial Infusion Pump Chemotherapy for Liver-Confined Unresectable Intrahepatic Cholangiocarcinoma.",
+      "author": "Franssen S",
+      "journal": "Ann Surg Oncol",
+      "year": "2024",
+      "doi": "10.1245/s10434-023-14409-z",
+      "pmid": "37814188",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37814188/",
+      "tmc": "https://libkey.io/libraries/480/pmid/37814188",
+      "coverage_notes": "Nonrandomized center, era and treatment-line differences; 71.9% of HAIP patients also received systemic treatment. Comparator predates current chemoimmunotherapy; not HAI versus Y90 or ablation."
+    },
+    "doi:10.2217/hep-2017-0005": {
+      "publication_type": "Journal publication",
+      "title": "Chemoembolization versus radioembolization for the treatment of unresectable intrahepatic cholangiocarcinoma in a single institution image-based efficacy and comparative toxicity.",
+      "author": "Akinwande O",
+      "journal": "Hepat Oncol",
+      "year": "2017",
+      "doi": "10.2217/hep-2017-0005",
+      "pmid": "30191056",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30191056/",
+      "tmc": "https://libkey.io/libraries/480/pmid/30191056",
+      "coverage_notes": "Small heterogeneous cohort focused on imaging response/toxicity; does not establish equivalent survival or curative efficacy."
+    },
+    "doi:10.1016/j.ctro.2019.07.007": {
+      "publication_type": "Journal publication",
+      "title": "Stereotactic body radiation therapy is associated with improved overall survival compared to chemoradiation or radioembolization in the treatment of unresectable intrahepatic cholangiocarcinoma.",
+      "author": "Sebastian NT",
+      "journal": "Clin Transl Radiat Oncol",
+      "year": "2019",
+      "doi": "10.1016/j.ctro.2019.07.007",
+      "pmid": "31517072",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31517072/",
+      "tmc": "https://libkey.io/libraries/480/pmid/31517072",
+      "coverage_notes": "TARE tumors were larger/more often multifocal or vascular-invasive. Strong selection bias and abstract/main-text cohort-count discrepancy; not causal superiority or equivalent treatment eligibility."
+    },
+    "doi:10.1016/j.eclinm.2026.104040": {
+      "publication_type": "Journal publication",
+      "title": "Biliary drainage plus hepatic arterial infusion chemotherapy versus biliary drainage plus best supportive care for advanced perihilar cholangiocarcinoma in China: a prospective multicentre non-randomised controlled study.",
+      "author": "Dai Y",
+      "journal": "EClinicalMedicine",
+      "year": "2026",
+      "doi": "10.1016/j.eclinm.2026.104040",
+      "pmid": "42433279",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42433279/",
+      "tmc": "https://libkey.io/libraries/480/pmid/42433279",
+      "coverage_notes": "Patient preference/clinical selection; no contemporary systemic-therapy comparator. Hypothesis-generating disease-control evidence, not established standard, cure, or a transplant-bridging protocol."
+    },
+    "doi:10.1007/s00268-017-4324-9": {
+      "publication_type": "Journal publication",
+      "title": "Radioembolization Versus Bland Embolization for Hepatic Metastases from Small Intestinal Neuroendocrine Tumors: Short-Term Results of a Randomized Clinical Trial.",
+      "author": "Elf AK",
+      "journal": "World J Surg",
+      "year": "2018",
+      "doi": "10.1007/s00268-017-4324-9",
+      "pmid": "29167951",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29167951/",
+      "tmc": "https://libkey.io/libraries/480/pmid/29167951",
+      "coverage_notes": "Tiny study; response timing differs after radiation. No survival ranking and no extrapolation to all NET primaries."
+    },
+    "doi:10.1016/j.jamcollsurg.2019.12.026": {
+      "publication_type": "Journal publication",
+      "title": "Transarterial Chemoembolization vs Radioembolization for Neuroendocrine Liver Metastases: A Multi-Institutional Analysis.",
+      "author": "Egger ME",
+      "journal": "J Am Coll Surg",
+      "year": "2020",
+      "doi": "10.1016/j.jamcollsurg.2019.12.026",
+      "pmid": "32032719",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32032719/",
+      "tmc": "https://libkey.io/libraries/480/pmid/32032719",
+      "coverage_notes": "Nonrandomized baseline and treatment-selection differences. Does not prove equivalence; treatment burden and delayed toxicity also matter."
+    },
+    "doi:10.1007/s00330-017-4856-2": {
+      "publication_type": "Journal publication",
+      "title": "Intra-arterial therapy of neuroendocrine tumour liver metastases: comparing conventional TACE, drug-eluting beads TACE and yttrium-90 radioembolisation as treatment options using a propensity score analysis model.",
+      "author": "Do Minh D",
+      "journal": "Eur Radiol",
+      "year": "2017",
+      "doi": "10.1007/s00330-017-4856-2",
+      "pmid": "28677067",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28677067/",
+      "tmc": "https://libkey.io/libraries/480/pmid/28677067",
+      "coverage_notes": "Older nonrandomized cohort; confounding and technique differences prevent a universal ranking. Consider alongside discordant Egger results."
+    },
+    "doi:10.1016/j.jvir.2020.05.019": {
+      "publication_type": "Journal publication",
+      "title": "Chronic Hepatotoxicity in Patients with Metastatic Neuroendocrine Tumor: Transarterial Chemoembolization versus Transarterial Radioembolization.",
+      "author": "Currie BM",
+      "journal": "J Vasc Interv Radiol",
+      "year": "2020",
+      "doi": "10.1016/j.jvir.2020.05.019",
+      "pmid": "33004146",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33004146/",
+      "tmc": "https://libkey.io/libraries/480/pmid/33004146",
+      "coverage_notes": "Conditioned on 1-year survival; small nonrandomized series. These are not baseline risks for every patient; prolonged survival makes late liver injury relevant."
+    },
+    "doi:10.1016/j.jtocrr.2026.100989": {
+      "publication_type": "Journal publication",
+      "title": "Yttrium-90 Radioembolization Versus Transarterial Embolization for Lung Carcinoid Hepatic Metastasis.",
+      "author": "Yuan G",
+      "journal": "JTO Clin Res Rep",
+      "year": "2026",
+      "doi": "10.1016/j.jtocrr.2026.100989",
+      "pmid": "42006283",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42006283/",
+      "tmc": "https://libkey.io/libraries/480/pmid/42006283",
+      "coverage_notes": "Primary-specific, small retrospective study with repeated procedures and systemic-treatment confounding; not generalizable to all NELM."
     }
   },
-  "artifact_release": "V18_consistent_release_2026-11-02"
+  "artifact_release": "V19_consistent_release_2026-11-03"
 }
