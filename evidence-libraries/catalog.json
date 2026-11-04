@@ -1,5 +1,5 @@
 {
-  "updated": "3 November 2026 · V19 comparative liver-directed evidence",
+  "updated": "4 November 2026 · V20 full-text comparative update",
   "unique_publications": 660,
   "libraries": [
     {
@@ -10541,7 +10541,7 @@
       "pmid": "33230652",
       "url": "https://pubmed.ncbi.nlm.nih.gov/33230652/",
       "tmc": "https://libkey.io/libraries/480/pmid/33230652",
-      "coverage_notes": "Small selected cohorts; local-control association, not proven OS superiority or equivalence. Title uses <4 cm; abstract uses ≤4 cm; do not derive an eligibility boundary from this report."
+      "coverage_notes": "Small matched cohorts; RS often selected for anatomy unsuitable for MWA. These are mean survival times, not medians. No proven OS superiority or equivalence."
     },
     "doi:10.21037/jgo-2026-0208": {
       "publication_type": "Journal publication",
@@ -10589,7 +10589,7 @@
       "pmid": "42379392",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42379392/",
       "tmc": "https://libkey.io/libraries/480/pmid/42379392",
-      "coverage_notes": "Recipient-only, tumor-level analysis; cannot estimate waitlist dropout. Abstract CPN denominator is unclear; omit that percentage pending full text. Not an equivalence trial."
+      "coverage_notes": "Transplanted patients only; cannot assess waitlist dropout. Complete-necrosis percentages have inconsistent denominators in Table 2 and are omitted. Most RS doses preceded current high-dose practice."
     },
     "doi:10.1016/j.jvir.2022.03.021": {
       "publication_type": "Journal publication",
@@ -10613,7 +10613,7 @@
       "pmid": "19552767",
       "url": "https://pubmed.ncbi.nlm.nih.gov/19552767/",
       "tmc": "https://libkey.io/libraries/480/pmid/19552767",
-      "coverage_notes": "Older nonrandomized cohort predating current UNOS-DS rules; supports a downstaging signal, not universal superiority."
+      "coverage_notes": "Retrospective. Eight TACE patients lacked follow-up imaging and were excluded from response analyses. Downstaging measured the whole lesion, including necrotic tissue; this is not the current viable-tumor method."
     },
     "doi:10.1016/j.cgh.2021.07.048": {
       "publication_type": "Journal publication",
@@ -10625,7 +10625,7 @@
       "pmid": "34358718",
       "url": "https://pubmed.ncbi.nlm.nih.gov/34358718/",
       "tmc": "https://libkey.io/libraries/480/pmid/34358718",
-      "coverage_notes": "Modality selection and era confounding remain; this is not a randomized comparison. Some registry years overlap later national reports."
+      "coverage_notes": "Observational first-treatment comparison, with later treatments allowed. Center, era and patient selection remain confounders. Registry cohorts overlap with later studies."
     },
     "doi:10.1016/j.jhep.2026.01.008": {
       "publication_type": "Journal publication",
@@ -10637,7 +10637,7 @@
       "pmid": "41580092",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41580092/",
       "tmc": "https://libkey.io/libraries/480/pmid/41580092",
-      "coverage_notes": "Adjusted association, not causal proof. Overlaps Fakhoury OPTN cohort; do not count as independent replication. Current review is abstract-level; full text pending."
+      "coverage_notes": "Observational registry association; both-modality recipients excluded from the primary analysis. Treatment details and selection remain incompletely measured. No proven post-transplant survival advantage."
     },
     "doi:10.1016/j.ejrad.2017.05.022": {
       "publication_type": "Journal publication",
@@ -10733,7 +10733,7 @@
       "pmid": "35993224",
       "url": "https://pubmed.ncbi.nlm.nih.gov/35993224/",
       "tmc": "https://libkey.io/libraries/480/pmid/35993224",
-      "coverage_notes": "Sequential-treatment selection and time-dependent bias remain. Tests addition of ablation after HAIC, not standalone HAIC versus ablation."
+      "coverage_notes": "Selected HAIC responders; substantial selection bias. Reported survival medians conflict with Results/Figure 2 and are omitted. Tests adding ablation after HAIC, not replacing ablation with HAIC."
     },
     "doi:10.1016/s2468-1253(18)30078-5": {
       "publication_type": "Journal publication",
@@ -10769,7 +10769,7 @@
       "pmid": "29181682",
       "url": "https://pubmed.ncbi.nlm.nih.gov/29181682/",
       "tmc": "https://libkey.io/libraries/480/pmid/29181682",
-      "coverage_notes": "Abstract/time-origin reporting and later discussion disagree; do not reproduce a pooled median or use this small cohort to establish superiority. Prefer the larger stratified Saadat analysis."
+      "coverage_notes": "Retrospective, 97 patients. Survival time origin changes the apparent comparison; treatment timing, subsequent therapy and selection limit causal interpretation."
     },
     "doi:10.1023/a:1013569329846": {
       "publication_type": "Journal publication",
@@ -10829,7 +10829,7 @@
       "pmid": "42018958",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42018958/",
       "tmc": "https://libkey.io/libraries/480/pmid/42018958",
-      "coverage_notes": "Adjuvant treatment after local clearance, not HAI instead of ablation. Oxaliplatin regimen and high-burden population differ from pump-FUDR PUMP and HARVEST."
+      "coverage_notes": "Selected adjuvant setting after complete local treatment of ≥4 CRLM. Phase II design amended before database lock; early closure and immature OS limit certainty. Oxaliplatin infusion is not FUDR pump therapy."
     },
     "doi:10.1016/j.lanepe.2026.101879": {
       "publication_type": "Journal publication",
@@ -10901,7 +10901,7 @@
       "pmid": "30191056",
       "url": "https://pubmed.ncbi.nlm.nih.gov/30191056/",
       "tmc": "https://libkey.io/libraries/480/pmid/30191056",
-      "coverage_notes": "Small heterogeneous cohort focused on imaging response/toxicity; does not establish equivalent survival or curative efficacy."
+      "coverage_notes": "Small retrospective cohort. Abstract and body percentages conflict; counts from Table 3 are used. Missing response status and treatment crossover limit comparison."
     },
     "doi:10.1016/j.ctro.2019.07.007": {
       "publication_type": "Journal publication",
@@ -10961,7 +10961,7 @@
       "pmid": "28677067",
       "url": "https://pubmed.ncbi.nlm.nih.gov/28677067/",
       "tmc": "https://libkey.io/libraries/480/pmid/28677067",
-      "coverage_notes": "Older nonrandomized cohort; confounding and technique differences prevent a universal ranking. Consider alongside discordant Egger results."
+      "coverage_notes": "Retrospective pairwise weighting across a long treatment era. These adjusted medians differ from the unadjusted three-group medians. Residual confounding prevents a definitive modality ranking."
     },
     "doi:10.1016/j.jvir.2020.05.019": {
       "publication_type": "Journal publication",
@@ -10973,7 +10973,7 @@
       "pmid": "33004146",
       "url": "https://pubmed.ncbi.nlm.nih.gov/33004146/",
       "tmc": "https://libkey.io/libraries/480/pmid/33004146",
-      "coverage_notes": "Conditioned on 1-year survival; small nonrandomized series. These are not baseline risks for every patient; prolonged survival makes late liver injury relevant."
+      "coverage_notes": "Retrospective survivor-selected cohort. Most TACE toxicities coincided with progression. This cannot estimate toxicity in all treated patients or establish equivalent safety."
     },
     "doi:10.1016/j.jtocrr.2026.100989": {
       "publication_type": "Journal publication",
@@ -10988,5 +10988,5 @@
       "coverage_notes": "Primary-specific, small retrospective study with repeated procedures and systemic-treatment confounding; not generalizable to all NELM."
     }
   },
-  "artifact_release": "V19_consistent_release_2026-11-03"
+  "artifact_release": "V20_consistent_release_2026-11-04"
 }
