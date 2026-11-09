@@ -1,12 +1,12 @@
 {
-  "updated": "4 November 2026 · V20 full-text comparative update",
-  "unique_publications": 660,
+  "updated": "2026-11-09",
+  "unique_publications": 661,
   "libraries": [
     {
       "key": "liver_directed_matrix",
       "title": "Liver-directed treatment matrix",
       "slug": null,
-      "publication_count": 132,
+      "publication_count": 133,
       "papers": [
         {
           "id": "doi:10.1056/nejm199912303412702"
@@ -403,6 +403,9 @@
         },
         {
           "id": "doi:10.1016/j.jtocrr.2026.100989"
+        },
+        {
+          "id": "doi:10.1007/s00259-020-04976-8"
         }
       ],
       "policy_records": []
@@ -1574,7 +1577,7 @@
       "key": "roadmap_hcc",
       "title": "HCC cancer roadmap",
       "slug": "hcc",
-      "publication_count": 103,
+      "publication_count": 104,
       "papers": [
         {
           "id": "doi:10.1016/j.jhep.2013.06.015"
@@ -1884,6 +1887,9 @@
         },
         {
           "id": "doi:10.1016/s2468-1253(18)30078-5"
+        },
+        {
+          "id": "doi:10.1007/s00259-020-04976-8"
         }
       ],
       "policy_records": [
@@ -3036,7 +3042,7 @@
       "key": "standard_hcc",
       "title": "HCC · standard protocol",
       "slug": "hcc",
-      "publication_count": 67,
+      "publication_count": 68,
       "papers": [
         {
           "id": "doi:10.1056/nejmoa0708857"
@@ -3238,6 +3244,9 @@
         },
         {
           "id": "doi:10.1016/s2468-1253(18)30078-5"
+        },
+        {
+          "id": "doi:10.1007/s00259-020-04976-8"
         }
       ],
       "policy_records": [
@@ -4611,7 +4620,7 @@
       "key": "meeting_hcc",
       "title": "HCC meeting record",
       "slug": "hcc",
-      "publication_count": 58,
+      "publication_count": 59,
       "papers": [
         {
           "id": "doi:10.1097/tp.0000000000002094"
@@ -4786,6 +4795,9 @@
         },
         {
           "id": "doi:10.1016/s2468-1253(18)30078-5"
+        },
+        {
+          "id": "doi:10.1007/s00259-020-04976-8"
         }
       ],
       "policy_records": [
@@ -10986,6 +10998,17 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42006283/",
       "tmc": "https://libkey.io/libraries/480/pmid/42006283",
       "coverage_notes": "Primary-specific, small retrospective study with repeated procedures and systemic-treatment confounding; not generalizable to all NELM."
+    },
+    "doi:10.1007/s00259-020-04976-8": {
+      "title": "Correlation of Y90-absorbed radiation dose to pathological necrosis in hepatocellular carcinoma: confirmatory multicenter analysis in 45 explants.",
+      "author": "Gabr A",
+      "journal": "Eur J Nucl Med Mol Imaging",
+      "doi": "10.1007/s00259-020-04976-8",
+      "pmid": "32749512",
+      "year": "2021",
+      "publication_type": "Journal publication",
+      "url": "https://link.springer.com/article/10.1007/s00259-020-04976-8",
+      "tmc": "https://libkey.io/libraries/480/pmid/32749512"
     }
   },
   "artifact_release": "V20_consistent_release_2026-11-04"
