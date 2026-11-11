@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-09",
-  "unique_publications": 661,
+  "updated": "2026-11-11",
+  "unique_publications": 670,
   "libraries": [
     {
       "key": "liver_directed_matrix",
       "title": "Liver-directed treatment matrix",
       "slug": null,
-      "publication_count": 133,
+      "publication_count": 141,
       "papers": [
         {
           "id": "doi:10.1056/nejm199912303412702"
@@ -406,6 +406,30 @@
         },
         {
           "id": "doi:10.1007/s00259-020-04976-8"
+        },
+        {
+          "id": "doi:10.1186/s12885-015-1373-z"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2014.03.023"
+        },
+        {
+          "id": "doi:10.1097/js9.0000000000001813"
+        },
+        {
+          "id": "doi:10.3389/ti.2022.10569"
+        },
+        {
+          "id": "doi:10.3390/cancers14030650"
+        },
+        {
+          "id": "doi:10.1002/wjs.70454"
+        },
+        {
+          "id": "doi:10.1097/lvt.0000000000000357"
+        },
+        {
+          "id": "doi:10.1002/jgh3.13111"
         }
       ],
       "policy_records": []
@@ -414,7 +438,7 @@
       "key": "systemic_matrix",
       "title": "Cross-tumor systemic treatment",
       "slug": null,
-      "publication_count": 148,
+      "publication_count": 160,
       "papers": [
         {
           "id": "doi:10.1001/jama.2012.7352"
@@ -859,6 +883,42 @@
         },
         {
           "id": "doi:10.1016/j.eclinm.2026.104040"
+        },
+        {
+          "id": "doi:10.1186/s12885-015-1373-z"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2014.03.023"
+        },
+        {
+          "id": "doi:10.1097/js9.0000000000001813"
+        },
+        {
+          "id": "doi:10.3389/ti.2022.10569"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2024.09.003"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2026.02.019"
+        },
+        {
+          "id": "doi:10.3390/cancers14030650"
+        },
+        {
+          "id": "doi:10.1002/wjs.70454"
+        },
+        {
+          "id": "doi:10.1001/jamaoncol.2026.3901"
+        },
+        {
+          "id": "doi:10.1111/apt.70528"
+        },
+        {
+          "id": "doi:10.1097/hep.0000000000001644"
+        },
+        {
+          "id": "doi:10.1159/000550600"
         }
       ],
       "policy_records": [
@@ -1577,7 +1637,7 @@
       "key": "roadmap_hcc",
       "title": "HCC cancer roadmap",
       "slug": "hcc",
-      "publication_count": 104,
+      "publication_count": 112,
       "papers": [
         {
           "id": "doi:10.1016/j.jhep.2013.06.015"
@@ -1890,6 +1950,30 @@
         },
         {
           "id": "doi:10.1007/s00259-020-04976-8"
+        },
+        {
+          "id": "doi:10.1186/s12885-015-1373-z"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2014.03.023"
+        },
+        {
+          "id": "doi:10.1097/js9.0000000000001813"
+        },
+        {
+          "id": "doi:10.3389/ti.2022.10569"
+        },
+        {
+          "id": "doi:10.1097/hep.0000000000001644"
+        },
+        {
+          "id": "doi:10.1159/000550600"
+        },
+        {
+          "id": "doi:10.1097/lvt.0000000000000357"
+        },
+        {
+          "id": "doi:10.1002/jgh3.13111"
         }
       ],
       "policy_records": [
@@ -3042,7 +3126,7 @@
       "key": "standard_hcc",
       "title": "HCC · standard protocol",
       "slug": "hcc",
-      "publication_count": 68,
+      "publication_count": 77,
       "papers": [
         {
           "id": "doi:10.1056/nejmoa0708857"
@@ -3247,6 +3331,33 @@
         },
         {
           "id": "doi:10.1007/s00259-020-04976-8"
+        },
+        {
+          "id": "doi:10.1186/s12885-015-1373-z"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2014.03.023"
+        },
+        {
+          "id": "doi:10.1097/js9.0000000000001813"
+        },
+        {
+          "id": "doi:10.3389/ti.2022.10569"
+        },
+        {
+          "id": "doi:10.1159/000550600"
+        },
+        {
+          "id": "doi:10.1097/lvt.0000000000000357"
+        },
+        {
+          "id": "doi:10.1002/jgh3.13111"
+        },
+        {
+          "id": "doi:10.1007/s12029-026-01399-w"
+        },
+        {
+          "id": "doi:10.1038/s41571-026-01160-z"
         }
       ],
       "policy_records": [
@@ -3799,7 +3910,7 @@
       "key": "high_risk_hcc",
       "title": "HCC · high-risk / boundary protocol",
       "slug": "hcc",
-      "publication_count": 72,
+      "publication_count": 76,
       "papers": [
         {
           "id": "doi:10.1097/tp.0000000000002094"
@@ -4016,6 +4127,18 @@
         },
         {
           "id": "doi:10.1016/s2468-1253(18)30078-5"
+        },
+        {
+          "id": "doi:10.1097/js9.0000000000001813"
+        },
+        {
+          "id": "doi:10.3389/ti.2022.10569"
+        },
+        {
+          "id": "doi:10.1159/000550600"
+        },
+        {
+          "id": "doi:10.1007/s12029-026-01399-w"
         }
       ],
       "policy_records": [
@@ -4620,7 +4743,7 @@
       "key": "meeting_hcc",
       "title": "HCC meeting record",
       "slug": "hcc",
-      "publication_count": 59,
+      "publication_count": 67,
       "papers": [
         {
           "id": "doi:10.1097/tp.0000000000002094"
@@ -4798,6 +4921,30 @@
         },
         {
           "id": "doi:10.1007/s00259-020-04976-8"
+        },
+        {
+          "id": "doi:10.1186/s12885-015-1373-z"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2014.03.023"
+        },
+        {
+          "id": "doi:10.1097/js9.0000000000001813"
+        },
+        {
+          "id": "doi:10.3389/ti.2022.10569"
+        },
+        {
+          "id": "doi:10.3390/cancers14030650"
+        },
+        {
+          "id": "doi:10.1002/wjs.70454"
+        },
+        {
+          "id": "doi:10.1097/hep.0000000000001644"
+        },
+        {
+          "id": "doi:10.1159/000550600"
         }
       ],
       "policy_records": [
@@ -11009,6 +11156,105 @@
       "publication_type": "Journal publication",
       "url": "https://link.springer.com/article/10.1007/s00259-020-04976-8",
       "tmc": "https://libkey.io/libraries/480/pmid/32749512"
+    },
+    "doi:10.1186/s12885-015-1373-z": {
+      "title": "Impact of neo-adjuvant Sorafenib treatment on liver transplantation in HCC patients - a prospective, randomized, double-blind, phase III trial.",
+      "author": "Hoffmann",
+      "journal": "BMC Cancer",
+      "doi": "10.1186/s12885-015-1373-z",
+      "pmid": "25957784",
+      "year": "2015",
+      "publication_type": "Journal publication",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25957784/",
+      "tmc": "https://libkey.io/libraries/480/pmid/25957784"
+    },
+    "doi:10.1016/j.jhep.2014.03.023": {
+      "title": "Prospective randomized pilot study of Y90+/-sorafenib as bridge to transplantation in hepatocellular carcinoma.",
+      "author": "Kulik",
+      "journal": "J Hepatol",
+      "doi": "10.1016/j.jhep.2014.03.023",
+      "pmid": "24681342",
+      "year": "2014",
+      "publication_type": "Journal publication",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24681342/",
+      "tmc": "https://libkey.io/libraries/480/pmid/24681342"
+    },
+    "doi:10.1097/js9.0000000000001813": {
+      "title": "Pembrolizumab in combination with LEnvatinib in participants with hepatocellular carcinoma before liver transplant as Neoadjuvant TherapY-PLENTY pilot study.",
+      "author": "Lv",
+      "journal": "Int J Surg",
+      "doi": "10.1097/js9.0000000000001813",
+      "pmid": "38995162",
+      "year": "2024",
+      "publication_type": "Journal publication",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38995162/",
+      "tmc": "https://libkey.io/libraries/480/pmid/38995162"
+    },
+    "doi:10.3389/ti.2022.10569": {
+      "title": "Neo-Adjuvant Use of Sorafenib for Hepatocellular Carcinoma Awaiting Liver Transplantation.",
+      "author": "Minoux",
+      "journal": "Transpl Int",
+      "doi": "10.3389/ti.2022.10569",
+      "pmid": "36438781",
+      "year": "2022",
+      "publication_type": "Journal publication",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36438781/",
+      "tmc": "https://libkey.io/libraries/480/pmid/36438781"
+    },
+    "doi:10.3390/cancers14030650": {
+      "title": "Transarterial Chemoembolization (TACE) Plus Sorafenib Compared to TACE Alone in Transplant Recipients with Hepatocellular Carcinoma: An Institution Experience.",
+      "author": "Abdelrahim",
+      "journal": "Cancers (Basel)",
+      "doi": "10.3390/cancers14030650",
+      "pmid": "35158918",
+      "year": "2022",
+      "publication_type": "Journal publication",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35158918/",
+      "tmc": "https://libkey.io/libraries/480/pmid/35158918"
+    },
+    "doi:10.1002/wjs.70454": {
+      "title": "Association of Pre-Transplant Tyrosine Kinase Inhibitor Therapy With Tumor Response and Survival in Hepatocellular Carcinoma: A 10-Year Retrospective Cohort Study of 427 Patients.",
+      "author": "Xu",
+      "journal": "World J Surg",
+      "doi": "10.1002/wjs.70454",
+      "pmid": "42421575",
+      "year": "2026",
+      "publication_type": "Journal publication",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421575/",
+      "tmc": "https://libkey.io/libraries/480/pmid/42421575"
+    },
+    "doi:10.1097/lvt.0000000000000357": {
+      "title": "Association between bridging therapy and posttransplant outcomes in patients with HCC within Milan criteria: A systematic review and meta-analysis.",
+      "author": "Arvind",
+      "journal": "Liver Transpl",
+      "doi": "10.1097/lvt.0000000000000357",
+      "pmid": "38466889",
+      "year": "2024",
+      "publication_type": "Journal publication",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38466889/",
+      "tmc": "https://libkey.io/libraries/480/pmid/38466889"
+    },
+    "doi:10.1002/jgh3.13111": {
+      "title": "Long-term posttransplant survival outcome following bridging locoregional therapy in hepatocellular carcinoma patients: A systematic review and meta-analysis.",
+      "author": "Chuncharunee",
+      "journal": "JGH Open",
+      "doi": "10.1002/jgh3.13111",
+      "pmid": "38978769",
+      "year": "2024",
+      "publication_type": "Journal publication",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38978769/",
+      "tmc": "https://libkey.io/libraries/480/pmid/38978769"
+    },
+    "doi:10.1007/s12029-026-01399-w": {
+      "title": "Pretransplant Systemic Therapies for Hepatocellular Carcinoma: A Systematic Review of Posttransplant Outcomes.",
+      "author": "Rodrigues Ribeiro",
+      "journal": "J Gastrointest Cancer",
+      "doi": "10.1007/s12029-026-01399-w",
+      "pmid": "41689676",
+      "year": "2026",
+      "publication_type": "Journal publication",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41689676/",
+      "tmc": "https://libkey.io/libraries/480/pmid/41689676"
     }
   },
   "artifact_release": "V20_consistent_release_2026-11-04"
