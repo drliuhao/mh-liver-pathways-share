@@ -278,9 +278,6 @@
           "id": "pmid:17239022"
         },
         {
-          "id": "pmid:22521348"
-        },
-        {
           "id": "pmid:41063730"
         }
       ],
@@ -309,9 +306,6 @@
         },
         {
           "id": "pmid:17239022"
-        },
-        {
-          "id": "pmid:22521348"
         },
         {
           "id": "pmid:41063730"
@@ -1042,15 +1036,6 @@
       "publication_type": "Document reference",
       "url": "https://pubmed.ncbi.nlm.nih.gov/17239022/",
       "tmc": "https://libkey.io/libraries/480/pmid/17239022"
-    },
-    "pmid:22521348": {
-      "title": "Mergental, Hynek; Adam, Rene; Ericzon, Bo-Goran; et al. Liver transplantation for unresectable hepatocellular carcinoma in normal livers. Journal of hepatology. 2012; 57(2):297-305.",
-      "doi": "10.1016/j.jhep.2012.03.022",
-      "pmid": "22521348",
-      "year": "",
-      "publication_type": "Document reference",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/22521348/",
-      "tmc": "https://libkey.io/libraries/480/pmid/22521348"
     },
     "pmid:24921218": {
       "title": "Sio, Terence T; Martenson, James A; Haddock, Michael G; et al. Outcome of Transplant-fallout Patients With Unresectable Cholangiocarcinoma. American journal of clinical oncology. 2016; 39(3):271-5.",

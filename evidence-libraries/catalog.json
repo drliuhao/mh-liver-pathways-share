@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-15",
-  "unique_publications": 674,
+  "unique_publications": 675,
   "libraries": [
     {
       "key": "liver_directed_matrix",
@@ -1637,7 +1637,7 @@
       "key": "roadmap_hcc",
       "title": "HCC cancer roadmap",
       "slug": "hcc",
-      "publication_count": 116,
+      "publication_count": 117,
       "papers": [
         {
           "id": "doi:10.1016/j.jhep.2013.06.015"
@@ -1986,6 +1986,9 @@
         },
         {
           "id": "doi:10.1002/jhbp.12138"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2012.03.022"
         }
       ],
       "policy_records": [
@@ -3138,7 +3141,7 @@
       "key": "standard_hcc",
       "title": "HCC · standard protocol",
       "slug": "hcc",
-      "publication_count": 77,
+      "publication_count": 78,
       "papers": [
         {
           "id": "doi:10.1056/nejmoa0708857"
@@ -3370,6 +3373,9 @@
         },
         {
           "id": "doi:10.1038/s41571-026-01160-z"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2012.03.022"
         }
       ],
       "policy_records": [
@@ -3922,7 +3928,7 @@
       "key": "high_risk_hcc",
       "title": "HCC · high-risk / boundary protocol",
       "slug": "hcc",
-      "publication_count": 76,
+      "publication_count": 77,
       "papers": [
         {
           "id": "doi:10.1097/tp.0000000000002094"
@@ -4151,6 +4157,9 @@
         },
         {
           "id": "doi:10.1007/s12029-026-01399-w"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2012.03.022"
         }
       ],
       "policy_records": [
@@ -4755,7 +4764,7 @@
       "key": "meeting_hcc",
       "title": "HCC meeting record",
       "slug": "hcc",
-      "publication_count": 71,
+      "publication_count": 72,
       "papers": [
         {
           "id": "doi:10.1097/tp.0000000000002094"
@@ -4969,6 +4978,9 @@
         },
         {
           "id": "doi:10.1002/jhbp.12138"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2012.03.022"
         }
       ],
       "policy_records": [
@@ -11341,6 +11353,18 @@
       "url": "https://doi.org/10.1002/jhbp.12138",
       "tmc": "https://libkey.io/libraries/480/pmid/40105312",
       "publisher_citation": "J Hepatobiliary Pancreat Sci. 2025;32:374–384. Results p. 376, Table 1 p. 377, Fig. 1 p. 378, Table 3 p. 380."
+    },
+    "doi:10.1016/j.jhep.2012.03.022": {
+      "title": "Liver transplantation for unresectable hepatocellular carcinoma in normal livers",
+      "author": "Mergental H",
+      "journal": "J Hepatol",
+      "doi": "10.1016/j.jhep.2012.03.022",
+      "pmid": "22521348",
+      "year": "2012",
+      "publication_type": "Journal publication",
+      "url": "https://doi.org/10.1016/j.jhep.2012.03.022",
+      "tmc": "https://libkey.io/libraries/480/pmid/22521348",
+      "publisher_citation": "J Hepatol. 2012;57:297–305. Pathology p. 298, Table 1 p. 300, Fig. 2C p. 302, Table 3 p. 303, Table 4 and prior resection pathology p. 304."
     }
   },
   "artifact_release": "V20_consistent_release_2026-11-04"
