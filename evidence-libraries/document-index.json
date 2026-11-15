@@ -77,18 +77,6 @@
         },
         {
           "id": "pmid:23532111"
-        },
-        {
-          "id": "pmid:32573905"
-        },
-        {
-          "id": "pmid:38467379"
-        },
-        {
-          "id": "pmid:39299553"
-        },
-        {
-          "id": "pmid:40105312"
         }
       ],
       "policy_records": [
@@ -757,42 +745,6 @@
       "publication_type": "Document reference",
       "url": "https://pubmed.ncbi.nlm.nih.gov/23532111/",
       "tmc": "https://libkey.io/libraries/480/pmid/23532111"
-    },
-    "pmid:32573905": {
-      "title": "Midorikawa, Yutaka; Takayama, Tadatoshi; Nakayama, Hisashi; et al. Favorable outcomes of surgical resection for extrahepatic recurrent hepatocellular carcinoma. Hepatology research : the official journal of the Japan Society of Hepatology. 2020; 50(8):978-984.",
-      "doi": "10.1111/hepr.13526",
-      "pmid": "32573905",
-      "year": "",
-      "publication_type": "Document reference",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/32573905/",
-      "tmc": "https://libkey.io/libraries/480/pmid/32573905"
-    },
-    "pmid:38467379": {
-      "title": "Choi, Seo Hee; Lee, Byung Min; Kim, Jina; et al. Efficacy of stereotactic ablative radiotherapy in patients with oligometastatic hepatocellular carcinoma: A phase II study. Journal of hepatology. 2024; 81(1):84-92.",
-      "doi": "10.1016/j.jhep.2024.03.003",
-      "pmid": "38467379",
-      "year": "",
-      "publication_type": "Document reference",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/38467379/",
-      "tmc": "https://libkey.io/libraries/480/pmid/38467379"
-    },
-    "pmid:39299553": {
-      "title": "Shin, Young Seob; Yun, Jae Kwang; Jung, Jinhong; et al. Comparison of Metastasectomy and Stereotactic Body Radiation Therapy for Pulmonary Oligometastasis From Hepatocellular Carcinoma: A Propensity Score-Weighted Analysis. International journal of radiation oncology, biology, physics. 2024; 121(2):432-441.",
-      "doi": "10.1016/j.ijrobp.2024.09.022",
-      "pmid": "39299553",
-      "year": "",
-      "publication_type": "Document reference",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/39299553/",
-      "tmc": "https://libkey.io/libraries/480/pmid/39299553"
-    },
-    "pmid:40105312": {
-      "title": "Shindoh, Junichi; Matsumura, Masaru; Komatsu, Shohei; et al. Prognostic factors and clinical significance of preoperative systemic therapy in patients with borderline resectable hepatocellular carcinoma: A JSHBPS project study 2023, Part 2. Journal of hepato-biliary-pancreatic sciences. 2025; 32(5):374-384.",
-      "doi": "10.1002/jhbp.12138",
-      "pmid": "40105312",
-      "year": "",
-      "publication_type": "Document reference",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40105312/",
-      "tmc": "https://libkey.io/libraries/480/pmid/40105312"
     },
     "pmid:42882932": {
       "title": "Kuriyama, Naohisa; Mizuno, Shugo; Segi, Yuki; et al. Long-Term Outcomes of a Multidisciplinary Treatment Strategy Using Neoadjuvant Gemcitabine Plus S-1 Based on Anatomical Resectability Classification and Lymph Node Status in Patients with Perihilar Cholangiocarcinoma. Cancers. 2026; 18(19).",

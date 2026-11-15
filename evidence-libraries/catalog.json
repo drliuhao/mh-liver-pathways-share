@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-14",
-  "unique_publications": 670,
+  "updated": "2026-11-15",
+  "unique_publications": 674,
   "libraries": [
     {
       "key": "liver_directed_matrix",
@@ -1637,7 +1637,7 @@
       "key": "roadmap_hcc",
       "title": "HCC cancer roadmap",
       "slug": "hcc",
-      "publication_count": 112,
+      "publication_count": 116,
       "papers": [
         {
           "id": "doi:10.1016/j.jhep.2013.06.015"
@@ -1974,6 +1974,18 @@
         },
         {
           "id": "doi:10.1002/jgh3.13111"
+        },
+        {
+          "id": "doi:10.1111/hepr.13526"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2024.03.003"
+        },
+        {
+          "id": "doi:10.1016/j.ijrobp.2024.09.022"
+        },
+        {
+          "id": "doi:10.1002/jhbp.12138"
         }
       ],
       "policy_records": [
@@ -4743,7 +4755,7 @@
       "key": "meeting_hcc",
       "title": "HCC meeting record",
       "slug": "hcc",
-      "publication_count": 67,
+      "publication_count": 71,
       "papers": [
         {
           "id": "doi:10.1097/tp.0000000000002094"
@@ -4945,6 +4957,18 @@
         },
         {
           "id": "doi:10.1159/000550600"
+        },
+        {
+          "id": "doi:10.1111/hepr.13526"
+        },
+        {
+          "id": "doi:10.1016/j.jhep.2024.03.003"
+        },
+        {
+          "id": "doi:10.1016/j.ijrobp.2024.09.022"
+        },
+        {
+          "id": "doi:10.1002/jhbp.12138"
         }
       ],
       "policy_records": [
@@ -11269,6 +11293,54 @@
       "publication_type": "Journal publication",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41689676/",
       "tmc": "https://libkey.io/libraries/480/pmid/41689676"
+    },
+    "doi:10.1111/hepr.13526": {
+      "title": "Metastasectomy after extrahepatic recurrence",
+      "author": "Midorikawa Y",
+      "journal": "Hepatol Res",
+      "doi": "10.1111/hepr.13526",
+      "pmid": "32573905",
+      "year": "2020",
+      "publication_type": "Journal publication",
+      "url": "https://doi.org/10.1111/hepr.13526",
+      "tmc": "https://libkey.io/libraries/480/pmid/32573905",
+      "publisher_citation": "Hepatol Res. 2020;50:978–984. Selection pp. 979–980, survival pp. 978 and 981, Fig. 2B p. 982."
+    },
+    "doi:10.1016/j.jhep.2024.03.003": {
+      "title": "Local control and progression after SABR",
+      "author": "Choi SH",
+      "journal": "J Hepatol",
+      "doi": "10.1016/j.jhep.2024.03.003",
+      "pmid": "38467379",
+      "year": "2024",
+      "publication_type": "Journal publication",
+      "url": "https://doi.org/10.1016/j.jhep.2024.03.003",
+      "tmc": "https://libkey.io/libraries/480/pmid/38467379",
+      "publisher_citation": "J Hepatol. 2024;81:84–92. Eligibility p. 85, outcomes pp. 86–87, Fig. 1 p. 87."
+    },
+    "doi:10.1016/j.ijrobp.2024.09.022": {
+      "title": "Lung metastases treated with surgery or SBRT",
+      "author": "Shin YS",
+      "journal": "Int J Radiat Oncol Biol Phys",
+      "doi": "10.1016/j.ijrobp.2024.09.022",
+      "pmid": "39299553",
+      "year": "2025",
+      "publication_type": "Journal publication",
+      "url": "https://doi.org/10.1016/j.ijrobp.2024.09.022",
+      "tmc": "https://libkey.io/libraries/480/pmid/39299553",
+      "publisher_citation": "Int J Radiat Oncol Biol Phys. 2025;121:432–441. Eligibility p. 433, outcomes p. 435, Figs. 3–4 pp. 437–438."
+    },
+    "doi:10.1002/jhbp.12138": {
+      "title": "Extent of extrahepatic spread and survival after surgery",
+      "author": "Shindoh J",
+      "journal": "J Hepatobiliary Pancreat Sci",
+      "doi": "10.1002/jhbp.12138",
+      "pmid": "40105312",
+      "year": "2025",
+      "publication_type": "Journal publication",
+      "url": "https://doi.org/10.1002/jhbp.12138",
+      "tmc": "https://libkey.io/libraries/480/pmid/40105312",
+      "publisher_citation": "J Hepatobiliary Pancreat Sci. 2025;32:374–384. Results p. 376, Table 1 p. 377, Fig. 1 p. 378, Table 3 p. 380."
     }
   },
   "artifact_release": "V20_consistent_release_2026-11-04"
