@@ -5,7 +5,7 @@
  try{
  const [a,b]=await Promise.all(['catalog.json','document-index.json'].map(u=>fetch(u).then(r=>{if(!r.ok)throw Error(u);return r.json()})));
  const data=LibraryDocumentIndex.merge(a,b);
- document.getElementById('census').textContent=data.libraries.length+' libraries · '+data.unique_publications+' publications';
+ document.getElementById('census').textContent=data.libraries.length+' libraries · '+data.unique_publications+' distinct publications across these libraries. Clinical webpages cite additional sources.';
  for(const lib of data.libraries){const o=document.createElement('option');o.value=lib.key;o.textContent=lib.title;select.append(o)}
  function render(){const key=decodeURIComponent(location.hash.slice(1));select.value=key;const q=search.value.toLowerCase(),lib=data.libraries.find(x=>x.key===key);
  if(!lib){out.innerHTML='<div class="library-grid">'+data.libraries.filter(l=>l.title.toLowerCase().includes(q)).map(l=>'<article class="library-card"><h2><a href="#'+e(l.key)+'">'+e(l.title)+'</a></h2><p>'+l.publication_count+' publications</p></article>').join('')+'</div>';return}

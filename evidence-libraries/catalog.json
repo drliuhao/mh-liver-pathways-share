@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-15",
-  "unique_publications": 675,
+  "updated": "2026-11-16",
+  "unique_publications": 676,
   "libraries": [
     {
       "key": "liver_directed_matrix",
       "title": "Liver-directed treatment matrix",
       "slug": null,
-      "publication_count": 141,
+      "publication_count": 142,
       "papers": [
         {
           "id": "doi:10.1056/nejm199912303412702"
@@ -430,6 +430,9 @@
         },
         {
           "id": "doi:10.1002/jgh3.13111"
+        },
+        {
+          "id": "doi:10.1097/js9.0000000000002089"
         }
       ],
       "policy_records": []
@@ -2453,7 +2456,7 @@
       "key": "roadmap_pcca",
       "title": "Perihilar CCA cancer roadmap",
       "slug": "pcca",
-      "publication_count": 51,
+      "publication_count": 52,
       "papers": [
         {
           "id": "doi:10.1002/bjs.10776"
@@ -2607,6 +2610,9 @@
         },
         {
           "id": "doi:10.1016/j.eclinm.2026.104040"
+        },
+        {
+          "id": "doi:10.1097/js9.0000000000002089"
         }
       ],
       "policy_records": [
@@ -11365,7 +11371,20 @@
       "url": "https://doi.org/10.1016/j.jhep.2012.03.022",
       "tmc": "https://libkey.io/libraries/480/pmid/22521348",
       "publisher_citation": "J Hepatol. 2012;57:297–305. Pathology p. 298, Table 1 p. 300, Fig. 2C p. 302, Table 3 p. 303, Table 4 and prior resection pathology p. 304."
+    },
+    "doi:10.1097/js9.0000000000002089": {
+      "title": "Radiation-emitting metallic stent for unresectable Bismuth type III or IV perihilar cholangiocarcinoma: a multicenter randomized trial.",
+      "author": "Chen Q",
+      "journal": "Int J Surg",
+      "year": "2025",
+      "doi": "10.1097/js9.0000000000002089",
+      "pmid": "39311927",
+      "publication_type": "Journal publication",
+      "url": "https://doi.org/10.1097/js9.0000000000002089",
+      "tmc": "https://libkey.io/libraries/480/pmid/39311927",
+      "publisher_citation": "Int J Surg. 2025;111:706–717."
     }
   },
-  "artifact_release": "V20_consistent_release_2026-11-04"
+  "artifact_release": "V20_consistent_release_2026-11-04",
+  "scope": "Publications represented in the presentation libraries. The evidence index also counts additional references supplied by the clinical documents. Policy records are listed separately."
 }
