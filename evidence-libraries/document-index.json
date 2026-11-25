@@ -8,16 +8,32 @@
     "roadmap_ampullary": {
       "papers": [
         {
-          "id": "pmid:30636895"
+          "id": "pmid:30636895",
+          "inclusion": [
+            "Roadmap document, reference V16-1"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:42905970"
+          "id": "pmid:42905970",
+          "inclusion": [
+            "Roadmap document, reference V16-2"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:30610789"
+          "id": "pmid:30610789",
+          "inclusion": [
+            "Roadmap document, reference V16-3"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:37433437"
+          "id": "pmid:37433437",
+          "inclusion": [
+            "Roadmap document, reference V16-4"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": []
@@ -25,110 +41,218 @@
     "roadmap_crlm": {
       "papers": [
         {
-          "id": "pmid:27017160"
+          "id": "pmid:27017160",
+          "inclusion": [
+            "Roadmap document, reference V16-16"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:28009741"
+          "id": "pmid:28009741",
+          "inclusion": [
+            "Roadmap document, reference V16-17"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:32388895"
+          "id": "pmid:32388895",
+          "inclusion": [
+            "Roadmap document, reference V16-18"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:23737695"
+          "id": "pmid:23737695",
+          "inclusion": [
+            "Roadmap document, reference V16-19"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:25789941"
+          "id": "pmid:25789941",
+          "inclusion": [
+            "Roadmap document, reference V16-20"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:18669451"
+          "id": "pmid:18669451",
+          "inclusion": [
+            "Roadmap document, reference V16-21"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:40372590"
+          "id": "pmid:40372590",
+          "inclusion": [
+            "Roadmap document, reference V16-22"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:32787474"
+          "id": "pmid:32787474",
+          "inclusion": [
+            "Roadmap document, reference V16-23"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "Genentech. Avastin bevacizumab US prescribing information. US prescribing information. 2022.",
-          "url": "https://www.gene.com/download/pdf/avastin_prescribing.pdf"
+          "url": "https://www.gene.com/download/pdf/avastin_prescribing.pdf",
+          "inclusion": [
+            "Roadmap document, reference V16-6"
+          ],
+          "document_only": true
         },
         {
           "title": "US Food and Drug Administration. FDA grants traditional approval to encorafenib for metastatic colorectal cancer with a BRAF V600E mutation. FDA approval announcement. 2026.",
-          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-traditional-approval-encorafenib-metastatic-colorectal-cancer-braf-v600e-mutation"
+          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-traditional-approval-encorafenib-metastatic-colorectal-cancer-braf-v600e-mutation",
+          "inclusion": [
+            "Roadmap document, reference V16-10"
+          ],
+          "document_only": true
         },
         {
           "title": "US Food and Drug Administration. FDA approves sotorasib with panitumumab for KRAS G12C mutated colorectal cancer. FDA approval announcement. 2025.",
-          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-sotorasib-panitumumab-kras-g12c-mutated-colorectal-cancer"
+          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-sotorasib-panitumumab-kras-g12c-mutated-colorectal-cancer",
+          "inclusion": [
+            "Roadmap document, reference V16-13"
+          ],
+          "document_only": true
         }
       ]
     },
     "roadmap_hcc": {
       "papers": [
         {
-          "id": "pmid:39524972"
+          "id": "pmid:39524972",
+          "inclusion": [
+            "Roadmap document, reference V16-39"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:38679630"
+          "id": "pmid:38679630",
+          "inclusion": [
+            "Roadmap document, reference V16-40"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:41063730"
+          "id": "pmid:41063730",
+          "inclusion": [
+            "Roadmap document, reference V16-41"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:23532111"
+          "id": "pmid:23532111",
+          "inclusion": [
+            "Roadmap document, reference V16-42"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "Genentech. Avastin bevacizumab US prescribing information. US prescribing information. 2022.",
-          "url": "https://www.gene.com/download/pdf/avastin_prescribing.pdf"
+          "url": "https://www.gene.com/download/pdf/avastin_prescribing.pdf",
+          "inclusion": [
+            "Roadmap document, reference V16-3"
+          ],
+          "document_only": true
         },
         {
           "title": "Merck. Keytruda pembrolizumab US prescribing information. US prescribing information. 2025.",
-          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/125514s178lbl.pdf"
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/125514s178lbl.pdf",
+          "inclusion": [
+            "Roadmap document, reference V16-8"
+          ],
+          "document_only": true
         },
         {
           "title": "AstraZeneca Pharmaceuticals. Imfinzi durvalumab US prescribing information. US prescribing information. 2026.",
-          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3"
+          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3",
+          "inclusion": [
+            "Roadmap document, reference V16-18"
+          ],
+          "document_only": true
         },
         {
           "title": "Bristol Myers Squibb. Opdivo nivolumab US prescribing information. US prescribing information. 2025.",
-          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/125554s129lbl.pdf"
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/125554s129lbl.pdf",
+          "inclusion": [
+            "Roadmap document, reference V16-19"
+          ],
+          "document_only": true
         },
         {
           "title": "BeOne Medicines. Tevimbra tislelizumab jsgr US prescribing information. US prescribing information. 2026.",
-          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761232s018lbl.pdf"
+          "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/761232s018lbl.pdf",
+          "inclusion": [
+            "Roadmap document, reference V16-23"
+          ],
+          "document_only": true
         },
         {
           "title": "American College of Radiology. LI RADS CT MRI Radiation Treatment Response Assessment version 2024 Core. ACR. 2024.",
-          "url": "https://edge.sitecorecloud.io/americancoldf5f-acrorgf92a-productioncb02-3650/media/ACR/Files/RADS/LI-RADS/LI-RADS-CTMR-Radiation-TRA-v2024-Core.pdf"
+          "url": "https://edge.sitecorecloud.io/americancoldf5f-acrorgf92a-productioncb02-3650/media/ACR/Files/RADS/LI-RADS/LI-RADS-CTMR-Radiation-TRA-v2024-Core.pdf",
+          "inclusion": [
+            "Roadmap document, reference V16-38"
+          ],
+          "document_only": true
         }
       ]
     },
     "roadmap_pcca": {
       "papers": [
         {
-          "id": "pmid:42882932"
+          "id": "pmid:42882932",
+          "inclusion": [
+            "Roadmap document, reference V16-15"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:40075720"
+          "id": "pmid:40075720",
+          "inclusion": [
+            "Roadmap document, reference V16-16"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:42804100"
+          "id": "pmid:42804100",
+          "inclusion": [
+            "Roadmap document, reference V16-17"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:33079246"
+          "id": "pmid:33079246",
+          "inclusion": [
+            "Roadmap document, reference V16-18"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "US Food and Drug Administration. FDA grants accelerated approval to zanidatamab hrii for previously treated unresectable or metastatic HER2 positive biliary tract cancer. FDA approval announcement. 2024.",
-          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-zanidatamab-hrii-previously-treated-unresectable-or-metastatic-her2"
+          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-zanidatamab-hrii-previously-treated-unresectable-or-metastatic-her2",
+          "inclusion": [
+            "Roadmap document, reference V16-13"
+          ],
+          "document_only": true
         },
         {
           "title": "US Food and Drug Administration. FDA approves zenocutuzumab zbco for advanced unresectable or metastatic cholangiocarcinoma. FDA approval announcement. 2026.",
-          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-zenocutuzumab-zbco-advanced-unresectable-or-metastatic-cholangiocarcinoma"
+          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-zenocutuzumab-zbco-advanced-unresectable-or-metastatic-cholangiocarcinoma",
+          "inclusion": [
+            "Roadmap document, reference V16-14"
+          ],
+          "document_only": true
         }
       ]
     },
@@ -139,10 +263,18 @@
     "roadmap_chcca": {
       "papers": [
         {
-          "id": "pmid:32280473"
+          "id": "pmid:32280473",
+          "inclusion": [
+            "Roadmap document, reference V16-3"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:37555110"
+          "id": "pmid:37555110",
+          "inclusion": [
+            "Roadmap document, reference V16-4"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": []
@@ -150,22 +282,46 @@
     "roadmap_nelm": {
       "papers": [
         {
-          "id": "pmid:37208566"
+          "id": "pmid:37208566",
+          "inclusion": [
+            "Roadmap document, reference V16-2"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:39274193"
+          "id": "pmid:39274193",
+          "inclusion": [
+            "Roadmap document, reference V16-3"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:40778558"
+          "id": "pmid:40778558",
+          "inclusion": [
+            "Roadmap document, reference V16-4"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:30218247"
+          "id": "pmid:30218247",
+          "inclusion": [
+            "Roadmap document, reference V16-5"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:28513896"
+          "id": "pmid:28513896",
+          "inclusion": [
+            "Roadmap document, reference V16-6"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:29560571"
+          "id": "pmid:29560571",
+          "inclusion": [
+            "Roadmap document, reference V16-7"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": []
@@ -173,53 +329,109 @@
     "roadmap_pdac": {
       "papers": [
         {
-          "id": "pmid:35758505"
+          "id": "pmid:35758505",
+          "inclusion": [
+            "Roadmap document, reference V16-15"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:41785904"
+          "id": "pmid:41785904",
+          "inclusion": [
+            "Roadmap document, reference V16-16"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:39915735"
+          "id": "pmid:39915735",
+          "inclusion": [
+            "Roadmap document, reference V16-17"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:31818843"
+          "id": "pmid:31818843",
+          "inclusion": [
+            "Roadmap document, reference V16-18"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:40084343"
+          "id": "pmid:40084343",
+          "inclusion": [
+            "Roadmap document, reference V16-20"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:35121522"
+          "id": "pmid:35121522",
+          "inclusion": [
+            "Roadmap document, reference V16-21"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:42905970"
+          "id": "pmid:42905970",
+          "inclusion": [
+            "Roadmap document, reference V16-22"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:27856064"
+          "id": "pmid:27856064",
+          "inclusion": [
+            "Roadmap document, reference V16-23"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:17941009"
+          "id": "pmid:17941009",
+          "inclusion": [
+            "Roadmap document, reference V16-24"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:28516291"
+          "id": "pmid:28516291",
+          "inclusion": [
+            "Roadmap document, reference V16-25"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:42081099"
+          "id": "pmid:42081099",
+          "inclusion": [
+            "Roadmap document, reference V16-26"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "US Food and Drug Administration. FDA approves daraxonrasib for metastatic pancreatic adenocarcinoma. FDA approval announcement. 2026.",
-          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-daraxonrasib-metastatic-pancreatic-adenocarcinoma"
+          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-daraxonrasib-metastatic-pancreatic-adenocarcinoma",
+          "inclusion": [
+            "Roadmap document, reference V16-12"
+          ],
+          "document_only": true
         }
       ]
     },
     "roadmap_pnet": {
       "papers": [
         {
-          "id": "pmid:29196022"
+          "id": "pmid:29196022",
+          "inclusion": [
+            "Roadmap document, reference V16-2"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:41366165"
+          "id": "pmid:41366165",
+          "inclusion": [
+            "Roadmap document, reference V16-3"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": []
@@ -231,334 +443,654 @@
     "roadmap_icca": {
       "papers": [
         {
-          "id": "pmid:39918658"
+          "id": "pmid:39918658",
+          "inclusion": [
+            "Roadmap document, reference V16-16"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:40075720"
+          "id": "pmid:40075720",
+          "inclusion": [
+            "Roadmap document, reference V16-17"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:42169873"
+          "id": "pmid:42169873",
+          "inclusion": [
+            "Roadmap document, reference V16-18"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:28858392"
+          "id": "pmid:28858392",
+          "inclusion": [
+            "Roadmap document, reference V16-19"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:40317676"
+          "id": "pmid:40317676",
+          "inclusion": [
+            "Roadmap document, reference V16-20"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:38822227"
+          "id": "pmid:38822227",
+          "inclusion": [
+            "Roadmap document, reference V16-21"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:42524843"
+          "id": "pmid:42524843",
+          "inclusion": [
+            "Roadmap document, reference V16-22"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "US Food and Drug Administration. FDA grants accelerated approval to zanidatamab hrii for previously treated unresectable or metastatic HER2 positive biliary tract cancer. FDA approval announcement. 2024.",
-          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-zanidatamab-hrii-previously-treated-unresectable-or-metastatic-her2"
+          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-zanidatamab-hrii-previously-treated-unresectable-or-metastatic-her2",
+          "inclusion": [
+            "Roadmap document, reference V16-13"
+          ],
+          "document_only": true
         },
         {
           "title": "US Food and Drug Administration. FDA approves zenocutuzumab zbco for advanced unresectable or metastatic cholangiocarcinoma. FDA approval announcement. 2026.",
-          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-zenocutuzumab-zbco-advanced-unresectable-or-metastatic-cholangiocarcinoma"
+          "url": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-zenocutuzumab-zbco-advanced-unresectable-or-metastatic-cholangiocarcinoma",
+          "inclusion": [
+            "Roadmap document, reference V16-14"
+          ],
+          "document_only": true
         }
       ]
     },
     "standard_hcc": {
       "papers": [
         {
-          "id": "doi:10.1097/lvt.0000000000000589"
+          "id": "doi:10.1097/lvt.0000000000000589",
+          "inclusion": [
+            "Standard pathway document, reference V16-54"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:40672077"
+          "id": "pmid:40672077",
+          "inclusion": [
+            "Standard pathway document, reference V16-55"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:41755988"
+          "id": "pmid:41755988",
+          "inclusion": [
+            "Standard pathway document, reference V16-56"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:17239022"
+          "id": "pmid:17239022",
+          "inclusion": [
+            "Standard pathway document, reference V16-57"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:41063730"
+          "id": "pmid:41063730",
+          "inclusion": [
+            "Standard pathway document, reference V16-59"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "American College of Radiology. LI RADS CT MRI Radiation Treatment Response Assessment version 2024 Core. ACR. 2024.",
-          "url": "https://edge.sitecorecloud.io/americancoldf5f-acrorgf92a-productioncb02-3650/media/ACR/Files/RADS/LI-RADS/LI-RADS-CTMR-Radiation-TRA-v2024-Core.pdf"
+          "url": "https://edge.sitecorecloud.io/americancoldf5f-acrorgf92a-productioncb02-3650/media/ACR/Files/RADS/LI-RADS/LI-RADS-CTMR-Radiation-TRA-v2024-Core.pdf",
+          "inclusion": [
+            "Standard pathway document, reference V16-14"
+          ],
+          "document_only": true
         },
         {
           "title": "Genentech. Avastin bevacizumab US prescribing information. US prescribing information. 2022.",
-          "url": "https://www.gene.com/download/pdf/avastin_prescribing.pdf"
+          "url": "https://www.gene.com/download/pdf/avastin_prescribing.pdf",
+          "inclusion": [
+            "Standard pathway document, reference V16-17"
+          ],
+          "document_only": true
         },
         {
           "title": "Novartis Pharmaceuticals Corporation. Zortress (everolimus) US prescribing information, updated 16 September 2026. DailyMed. 2026.",
-          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a"
+          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a",
+          "inclusion": [
+            "Standard pathway document, reference V16-24"
+          ],
+          "document_only": true
         }
       ]
     },
     "high_risk_hcc": {
       "papers": [
         {
-          "id": "pmid:40672077"
+          "id": "pmid:40672077",
+          "inclusion": [
+            "High-risk pathway document, reference V16-61"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:41755988"
+          "id": "pmid:41755988",
+          "inclusion": [
+            "High-risk pathway document, reference V16-62"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:17239022"
+          "id": "pmid:17239022",
+          "inclusion": [
+            "High-risk pathway document, reference V16-63"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:41063730"
+          "id": "pmid:41063730",
+          "inclusion": [
+            "High-risk pathway document, reference V16-65"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "American College of Radiology. LI RADS CT MRI Radiation Treatment Response Assessment version 2024 Core. ACR. 2024.",
-          "url": "https://edge.sitecorecloud.io/americancoldf5f-acrorgf92a-productioncb02-3650/media/ACR/Files/RADS/LI-RADS/LI-RADS-CTMR-Radiation-TRA-v2024-Core.pdf"
+          "url": "https://edge.sitecorecloud.io/americancoldf5f-acrorgf92a-productioncb02-3650/media/ACR/Files/RADS/LI-RADS/LI-RADS-CTMR-Radiation-TRA-v2024-Core.pdf",
+          "inclusion": [
+            "High-risk pathway document, reference V16-30"
+          ],
+          "document_only": true
         },
         {
           "title": "Genentech. Avastin bevacizumab US prescribing information. US prescribing information. 2022.",
-          "url": "https://www.gene.com/download/pdf/avastin_prescribing.pdf"
+          "url": "https://www.gene.com/download/pdf/avastin_prescribing.pdf",
+          "inclusion": [
+            "High-risk pathway document, reference V16-33"
+          ],
+          "document_only": true
         },
         {
           "title": "US Department of Health and Human Services. 45 CFR 46.111: Criteria for IRB approval of research. . 2018.",
-          "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.111"
+          "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.111",
+          "inclusion": [
+            "High-risk pathway document, reference V16-44"
+          ],
+          "document_only": true
         },
         {
           "title": "OPTN Ethics Committee. Ethical Principles in the Allocation of Human Organs. . 2015.",
-          "url": "https://www.hrsa.gov/optn/professionals/resources/ethical-considerations/ethical-principles-in-the-allocation-of-human-organs"
+          "url": "https://www.hrsa.gov/optn/professionals/resources/ethical-considerations/ethical-principles-in-the-allocation-of-human-organs",
+          "inclusion": [
+            "High-risk pathway document, reference V16-45"
+          ],
+          "document_only": true
         }
       ]
     },
     "standard_pcca": {
       "papers": [
         {
-          "id": "pmid:24921218"
+          "id": "pmid:24921218",
+          "inclusion": [
+            "Standard pathway document, reference V16-30"
+          ],
+          "document_only": true
         },
         {
-          "id": "doi:10.1111/hpb.12450"
+          "id": "doi:10.1111/hpb.12450",
+          "inclusion": [
+            "Standard pathway document, reference V16-31"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:42323458"
+          "id": "pmid:42323458",
+          "inclusion": [
+            "Standard pathway document, reference V16-32"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:37890597"
+          "id": "pmid:37890597",
+          "inclusion": [
+            "Standard pathway document, reference V16-33"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:31059945"
+          "id": "pmid:31059945",
+          "inclusion": [
+            "Standard pathway document, reference V16-34"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "Novartis Pharmaceuticals Corporation. Zortress (everolimus) US prescribing information, updated 16 September 2026. DailyMed. 2026.",
-          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a"
+          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a",
+          "inclusion": [
+            "Standard pathway document, reference V16-19"
+          ],
+          "document_only": true
         }
       ]
     },
     "high_risk_pcca": {
       "papers": [
         {
-          "id": "pmid:24921218"
+          "id": "pmid:24921218",
+          "inclusion": [
+            "High-risk pathway document, reference V16-41"
+          ],
+          "document_only": true
         },
         {
-          "id": "doi:10.1111/hpb.12450"
+          "id": "doi:10.1111/hpb.12450",
+          "inclusion": [
+            "High-risk pathway document, reference V16-42"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:42323458"
+          "id": "pmid:42323458",
+          "inclusion": [
+            "High-risk pathway document, reference V16-43"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:37890597"
+          "id": "pmid:37890597",
+          "inclusion": [
+            "High-risk pathway document, reference V16-44"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:31059945"
+          "id": "pmid:31059945",
+          "inclusion": [
+            "High-risk pathway document, reference V16-45"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "US Department of Health and Human Services. 45 CFR 46.111: Criteria for IRB approval of research. . 2018.",
-          "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.111"
+          "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.111",
+          "inclusion": [
+            "High-risk pathway document, reference V16-28"
+          ],
+          "document_only": true
         },
         {
           "title": "OPTN Ethics Committee. Ethical Principles in the Allocation of Human Organs. . 2015.",
-          "url": "https://www.hrsa.gov/optn/professionals/resources/ethical-considerations/ethical-principles-in-the-allocation-of-human-organs"
+          "url": "https://www.hrsa.gov/optn/professionals/resources/ethical-considerations/ethical-principles-in-the-allocation-of-human-organs",
+          "inclusion": [
+            "High-risk pathway document, reference V16-29"
+          ],
+          "document_only": true
         }
       ]
     },
     "standard_icca": {
       "papers": [
         {
-          "id": "doi:10.3389/ti.2024.13641"
+          "id": "doi:10.3389/ti.2024.13641",
+          "inclusion": [
+            "Standard pathway document, reference V16-35"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:42323458"
+          "id": "pmid:42323458",
+          "inclusion": [
+            "Standard pathway document, reference V16-36"
+          ],
+          "document_only": true
         },
         {
-          "id": "doi:10.1097/lvt.0000000000000589"
+          "id": "doi:10.1097/lvt.0000000000000589",
+          "inclusion": [
+            "Standard pathway document, reference V16-37"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:21937390"
+          "id": "pmid:21937390",
+          "inclusion": [
+            "Standard pathway document, reference V16-38"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "Novartis Pharmaceuticals Corporation. Zortress (everolimus) US prescribing information, updated 16 September 2026. DailyMed. 2026.",
-          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a"
+          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a",
+          "inclusion": [
+            "Standard pathway document, reference V16-20"
+          ],
+          "document_only": true
         }
       ]
     },
     "high_risk_icca": {
       "papers": [
         {
-          "id": "pmid:42323458"
+          "id": "pmid:42323458",
+          "inclusion": [
+            "High-risk pathway document, reference V16-44"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:21937390"
+          "id": "pmid:21937390",
+          "inclusion": [
+            "High-risk pathway document, reference V16-45"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "US Department of Health and Human Services. 45 CFR 46.111: Criteria for IRB approval of research. . 2018.",
-          "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.111"
+          "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.111",
+          "inclusion": [
+            "High-risk pathway document, reference V16-28"
+          ],
+          "document_only": true
         },
         {
           "title": "OPTN Ethics Committee. Ethical Principles in the Allocation of Human Organs. . 2015.",
-          "url": "https://www.hrsa.gov/optn/professionals/resources/ethical-considerations/ethical-principles-in-the-allocation-of-human-organs"
+          "url": "https://www.hrsa.gov/optn/professionals/resources/ethical-considerations/ethical-principles-in-the-allocation-of-human-organs",
+          "inclusion": [
+            "High-risk pathway document, reference V16-29"
+          ],
+          "document_only": true
         },
         {
           "title": "Novartis Pharmaceuticals Corporation. Zortress (everolimus) US prescribing information, updated 16 September 2026. DailyMed. 2026.",
-          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a"
+          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a",
+          "inclusion": [
+            "High-risk pathway document, reference V16-41"
+          ],
+          "document_only": true
         }
       ]
     },
     "standard_crlm": {
       "papers": [
         {
-          "id": "doi:10.1002/bjs5.50278"
+          "id": "doi:10.1002/bjs5.50278",
+          "inclusion": [
+            "Standard pathway document, reference V16-26"
+          ],
+          "document_only": true
         },
         {
-          "id": "doi:10.1001/jamasurg.2023.2932"
+          "id": "doi:10.1001/jamasurg.2023.2932",
+          "inclusion": [
+            "Standard pathway document, reference V16-27"
+          ],
+          "document_only": true
         },
         {
-          "id": "doi:10.1001/jamasurg.2022.0300"
+          "id": "doi:10.1001/jamasurg.2022.0300",
+          "inclusion": [
+            "Standard pathway document, reference V16-28"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:24370906"
+          "id": "pmid:24370906",
+          "inclusion": [
+            "Standard pathway document, reference V16-29"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:36291826"
+          "id": "pmid:36291826",
+          "inclusion": [
+            "Standard pathway document, reference V16-30"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:39566949"
+          "id": "pmid:39566949",
+          "inclusion": [
+            "Standard pathway document, reference V16-31"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:32388895"
+          "id": "pmid:32388895",
+          "inclusion": [
+            "Standard pathway document, reference V16-33"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:29168565"
+          "id": "pmid:29168565",
+          "inclusion": [
+            "Standard pathway document, reference V16-34"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "Novartis Pharmaceuticals Corporation. Zortress (everolimus) US prescribing information, updated 16 September 2026. DailyMed. 2026.",
-          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a"
+          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a",
+          "inclusion": [
+            "Standard pathway document, reference V16-20"
+          ],
+          "document_only": true
         },
         {
           "title": "Oslo University Hospital. A randomized clinical trial comparing overall survival in selected patients with colorectal carcinoma treated by liver transplantation or chemotherapy (SECA-III). ClinicalTrials.gov NCT03494946. 2016.",
-          "url": "https://clinicaltrials.gov/study/NCT03494946"
+          "url": "https://clinicaltrials.gov/study/NCT03494946",
+          "inclusion": [
+            "Standard pathway document, reference V16-32"
+          ],
+          "document_only": true
         }
       ]
     },
     "high_risk_crlm": {
       "papers": [
         {
-          "id": "doi:10.1001/jamasurg.2023.2932"
+          "id": "doi:10.1001/jamasurg.2023.2932",
+          "inclusion": [
+            "High-risk pathway document, reference V16-35"
+          ],
+          "document_only": true
         },
         {
-          "id": "doi:10.1001/jamasurg.2022.0300"
+          "id": "doi:10.1001/jamasurg.2022.0300",
+          "inclusion": [
+            "High-risk pathway document, reference V16-36"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:24370906"
+          "id": "pmid:24370906",
+          "inclusion": [
+            "High-risk pathway document, reference V16-37"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:36291826"
+          "id": "pmid:36291826",
+          "inclusion": [
+            "High-risk pathway document, reference V16-38"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:39566949"
+          "id": "pmid:39566949",
+          "inclusion": [
+            "High-risk pathway document, reference V16-39"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:32388895"
+          "id": "pmid:32388895",
+          "inclusion": [
+            "High-risk pathway document, reference V16-41"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:29168565"
+          "id": "pmid:29168565",
+          "inclusion": [
+            "High-risk pathway document, reference V16-42"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "US Department of Health and Human Services. 45 CFR 46.111: Criteria for IRB approval of research. . 2018.",
-          "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.111"
+          "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.111",
+          "inclusion": [
+            "High-risk pathway document, reference V16-24"
+          ],
+          "document_only": true
         },
         {
           "title": "OPTN Ethics Committee. Ethical Principles in the Allocation of Human Organs. . 2015.",
-          "url": "https://www.hrsa.gov/optn/professionals/resources/ethical-considerations/ethical-principles-in-the-allocation-of-human-organs"
+          "url": "https://www.hrsa.gov/optn/professionals/resources/ethical-considerations/ethical-principles-in-the-allocation-of-human-organs",
+          "inclusion": [
+            "High-risk pathway document, reference V16-25"
+          ],
+          "document_only": true
         },
         {
           "title": "Oslo University Hospital. A randomized clinical trial comparing overall survival in selected patients with colorectal carcinoma treated by liver transplantation or chemotherapy (SECA-III). ClinicalTrials.gov NCT03494946. 2016.",
-          "url": "https://clinicaltrials.gov/study/NCT03494946"
+          "url": "https://clinicaltrials.gov/study/NCT03494946",
+          "inclusion": [
+            "High-risk pathway document, reference V16-40"
+          ],
+          "document_only": true
         }
       ]
     },
     "standard_nelm": {
       "papers": [
         {
-          "id": "pmid:40778558"
+          "id": "pmid:40778558",
+          "inclusion": [
+            "Standard pathway document, reference V16-26"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:26171686"
+          "id": "pmid:26171686",
+          "inclusion": [
+            "Standard pathway document, reference V16-27"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:21037441"
+          "id": "pmid:21037441",
+          "inclusion": [
+            "Standard pathway document, reference V16-28"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "Novartis Pharmaceuticals Corporation. Zortress (everolimus) US prescribing information, updated 16 September 2026. DailyMed. 2026.",
-          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a"
+          "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a",
+          "inclusion": [
+            "Standard pathway document, reference V16-16"
+          ],
+          "document_only": true
         }
       ]
     },
     "high_risk_nelm": {
       "papers": [
         {
-          "id": "pmid:40778558"
+          "id": "pmid:40778558",
+          "inclusion": [
+            "High-risk pathway document, reference V16-32"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:26171686"
+          "id": "pmid:26171686",
+          "inclusion": [
+            "High-risk pathway document, reference V16-33"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:21037441"
+          "id": "pmid:21037441",
+          "inclusion": [
+            "High-risk pathway document, reference V16-34"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": [
         {
           "title": "US Department of Health and Human Services. 45 CFR 46.111: Criteria for IRB approval of research. . 2018.",
-          "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.111"
+          "url": "https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.111",
+          "inclusion": [
+            "High-risk pathway document, reference V16-20"
+          ],
+          "document_only": true
         },
         {
           "title": "OPTN Ethics Committee. Ethical Principles in the Allocation of Human Organs. . 2015.",
-          "url": "https://www.hrsa.gov/optn/professionals/resources/ethical-considerations/ethical-principles-in-the-allocation-of-human-organs"
+          "url": "https://www.hrsa.gov/optn/professionals/resources/ethical-considerations/ethical-principles-in-the-allocation-of-human-organs",
+          "inclusion": [
+            "High-risk pathway document, reference V16-21"
+          ],
+          "document_only": true
         }
       ]
     },
     "standard_hehe": {
       "papers": [
         {
-          "id": "pmid:31537895"
+          "id": "pmid:31537895",
+          "inclusion": [
+            "Standard pathway document, reference V16-13"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:18043096"
+          "id": "pmid:18043096",
+          "inclusion": [
+            "Standard pathway document, reference V16-14"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:39318157"
+          "id": "pmid:39318157",
+          "inclusion": [
+            "Standard pathway document, reference V16-15"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": []
@@ -566,13 +1098,25 @@
     "high_risk_hehe": {
       "papers": [
         {
-          "id": "pmid:31537895"
+          "id": "pmid:31537895",
+          "inclusion": [
+            "High-risk pathway document, reference V16-10"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:18043096"
+          "id": "pmid:18043096",
+          "inclusion": [
+            "High-risk pathway document, reference V16-11"
+          ],
+          "document_only": true
         },
         {
-          "id": "pmid:39318157"
+          "id": "pmid:39318157",
+          "inclusion": [
+            "High-risk pathway document, reference V16-12"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": []
@@ -580,7 +1124,11 @@
     "standard_hca": {
       "papers": [
         {
-          "id": "doi:10.1111/j.1477-2574.2010.00222.x"
+          "id": "doi:10.1111/j.1477-2574.2010.00222.x",
+          "inclusion": [
+            "Standard pathway document, reference V16-10"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": []
@@ -588,7 +1136,11 @@
     "high_risk_hca": {
       "papers": [
         {
-          "id": "doi:10.1111/j.1477-2574.2010.00222.x"
+          "id": "doi:10.1111/j.1477-2574.2010.00222.x",
+          "inclusion": [
+            "High-risk pathway document, reference V16-10"
+          ],
+          "document_only": true
         }
       ],
       "policy_records": []
