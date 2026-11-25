@@ -17,6 +17,7 @@
           "question": "Which guideline is this programme's spine — Kyoto 2024, ACG 2018, the European 2018 guideline, or AGA 2015?",
           "kind": "governance",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [],
           "positions": [
             {
@@ -64,6 +65,7 @@
           "question": "Which surveillance interval schedule, stated by size band, and which modality?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "8 · Surveillance without resection",
@@ -110,6 +112,7 @@
           "question": "The stopping rule: continue while fit, stop at 5 years of stability, or stop by age and size?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "9 · Consider stopping surveillance",
@@ -162,6 +165,7 @@
           "question": "Does a cyst of 30 mm, or 40 mm, trigger resection on size alone in a fit patient?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "2 · Assess high-risk features",
@@ -218,6 +222,7 @@
           "question": "Mucinous cystic neoplasm: resect all in fit patients, or surveil those under 40 mm without risk features?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "5 · Manage cysts other than IPMN",
@@ -270,6 +275,7 @@
           "question": "Cyst fluid panel: does glucose replace CEA as first-line, is cytology mandatory on every aspirate, and is molecular testing offered and funded?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "4 · Select cyst-fluid testing",
@@ -322,6 +328,7 @@
           "question": "Is endoscopic ultrasound required before every cyst resection, or selectively?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "2 · Assess high-risk features",
@@ -372,6 +379,7 @@
           "question": "How is growth defined — and is duct growth recorded as well as cyst growth?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "3 · Assess worrisome features",
@@ -428,6 +436,7 @@
           "question": "What happens to high-grade dysplasia at the duct margin when clearing it requires a total pancreatectomy?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "7 · Plan the extent of resection",
@@ -474,6 +483,7 @@
           "question": "Post-resection surveillance: which schedule, and is a resected non-invasive branch-duct IPMN with a clear margin followed at all?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "10 · Surveillance after resection",
@@ -526,6 +536,7 @@
           "question": "Is there an age or fitness threshold for entering surveillance at all?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "6 · Assess surgical fitness and expected benefit",
@@ -572,6 +583,7 @@
           "question": "Who owns the cyst registry, the recall report and the annual review of this page against current guideline versions?",
           "kind": "governance",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [],
           "positions": [],
           "divergence": "No source positions; programme decision.",
@@ -588,6 +600,7 @@
           "question": "The mural nodule threshold: 5 mm, as Kyoto retains it, or 10 mm, which its own commissioned review found discriminates far better?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "2 · Assess high-risk features",
@@ -638,6 +651,7 @@
           "question": "Is the Kyoto 30 mm size band retained for the 6-monthly interval, given that its only large validation found no stratification at 30 mm?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "8 · Surveillance without resection",
@@ -690,6 +704,7 @@
           "question": "Is a local 'suspicious' cytology treated as a high-risk stigma for clinically appropriate surgical assessment here, and who reads it?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "2 · Assess high-risk features",
@@ -740,6 +755,7 @@
           "question": "Will this programme record and publish its own 90-day mortality and major morbidity for cyst resection?",
           "kind": "governance",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "6 · Assess surgical fitness and expected benefit",
@@ -786,6 +802,7 @@
           "question": "Is the cost of this programme tracked, and by whom?",
           "kind": "governance",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "8 · Surveillance without resection",
@@ -832,6 +849,7 @@
           "question": "Which cysts are formally released, and in writing — serous cystadenoma, pseudocyst, resected mucinous cystic neoplasm without cancer?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "5 · Manage cysts other than IPMN",
@@ -876,6 +894,7 @@
           "question": "Which non-guideline adjuncts are offered — and is the page's own evidence summary reviewed when they are proposed?",
           "kind": "clinical",
           "status": "OPEN — not yet decided",
+          "resolved": false,
           "where": [
             {
               "label": "3 · Assess worrisome features",

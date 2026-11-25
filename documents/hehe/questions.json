@@ -17,6 +17,7 @@
           "question": "What level of expert pathology confirmation is required?",
           "kind": "standard pathway",
           "status": "Discussion required — not yet approved",
+          "resolved": false,
           "where": [
             {
               "label": "Verify diagnosis",
@@ -51,6 +52,7 @@
           "question": "Which extrahepatic disease patterns are acceptable locally?",
           "kind": "standard pathway",
           "status": "Discussion required — not yet approved",
+          "resolved": false,
           "where": [
             {
               "label": "Stage and compare options",
@@ -85,6 +87,7 @@
           "question": "Can HEHE-LT risk estimates be used before transplant?",
           "kind": "standard pathway",
           "status": "Discussion required — not yet approved",
+          "resolved": false,
           "where": [
             {
               "label": "Assess benefit and risk",
@@ -119,6 +122,7 @@
           "question": "When does transplant offer enough benefit over observation or other therapy?",
           "kind": "standard pathway",
           "status": "Discussion required — not yet approved",
+          "resolved": false,
           "where": [
             {
               "label": "Assess benefit and risk",
@@ -153,6 +157,7 @@
           "question": "Who verifies each component of the nonstandard request?",
           "kind": "standard pathway",
           "status": "Discussion required — not yet approved",
+          "resolved": false,
           "where": [
             {
               "label": "Submit and reassess",
@@ -180,6 +185,7 @@
           "question": "What risk-adapted post-transplant follow-up will be adopted?",
           "kind": "standard pathway",
           "status": "Discussion required — not yet approved",
+          "resolved": false,
           "where": [
             {
               "label": "Transplant and follow-up",
